@@ -1,0 +1,16 @@
+# ── Source data + build scripts: kept LOCAL, not committed ──────────────────
+# Only the GENERATED data/*.json (and the site) ship to the public repo — the same
+# way ichinichi-ichigo commits its dataset but not the raw notes it was built from.
+#
+# Consequence: the source CSVs and the build are NOT in the repo, so data/ can't be
+# rebuilt from a fresh clone. Keep your own backup of tools/.
+tools/
+
+# ── OS / editor cruft ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.log
+
+# ── Node (zero-dependency today, but just in case) ──────────────────────────
+node_modules/
+npm-debug.log*

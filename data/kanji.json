@@ -1,0 +1,4354 @@
+[
+  {
+    "id": "00ebf17f",
+    "type": "radical",
+    "word": "虫",
+    "reading": "むしへん",
+    "meaning": "insect / small creature",
+    "level": "N1",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "虫",
+    "base": "虫",
+    "name": "むしへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "蚊",
+        "kana": "か",
+        "gloss": "mosquito"
+      },
+      {
+        "kanji": "蝶",
+        "kana": "ちょう",
+        "gloss": "butterfly"
+      },
+      {
+        "kanji": "蜂",
+        "kana": "はち",
+        "gloss": "bee"
+      },
+      {
+        "kanji": "蛇",
+        "kana": "へび",
+        "gloss": "snake"
+      }
+    ],
+    "explanation": "## 虫 — むしへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">insect / small creature</span>\n- **Standalone form**: 虫\n- **JLPT**: N1\n\n### Words that use 虫\n| Word | Reading | Meaning |\n|---|---|---|\n| 蚊 | か | <span lang=\"en\">mosquito</span> |\n| 蝶 | ちょう | <span lang=\"en\">butterfly</span> |\n| 蜂 | はち | <span lang=\"en\">bee</span> |\n| 蛇 | へび | <span lang=\"en\">snake</span> |\n"
+  },
+  {
+    "id": "01b29f3e",
+    "type": "phonetic",
+    "word": "旨",
+    "reading": "シ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "脂肪",
+    "onyomi": [
+      "シ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "指",
+        "gloss": "finger"
+      },
+      {
+        "kanji": "脂",
+        "gloss": "fat"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "脂肪",
+      "reading": "しぼう",
+      "meaning": "fat"
+    },
+    "explanation": "## 旨 — シ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: シ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 旨**: the radical gives the *meaning*, while **旨** carries the **シ** sound. Strip the radical off an unknown kanji, spot **旨**, and you can usually read it.\n\nTrust it — every member below reads **シ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 指 | <span lang=\"en\">finger</span> |\n| 脂 | <span lang=\"en\">fat</span> |\n\n### Example\n脂肪 (しぼう) — <span lang=\"en\">fat</span>\n"
+  },
+  {
+    "id": "036045c5",
+    "type": "phonetic",
+    "word": "制",
+    "reading": "セイ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "製造",
+    "onyomi": [
+      "セイ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "製",
+        "gloss": "manufacture"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "製造",
+      "reading": "せいぞう",
+      "meaning": "manufacture"
+    },
+    "explanation": "## 制 — セイ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: セイ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 制**: the radical gives the *meaning*, while **制** carries the **セイ** sound. Strip the radical off an unknown kanji, spot **制**, and you can usually read it.\n\nTrust it — every member below reads **セイ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 製 | <span lang=\"en\">manufacture</span> |\n\n### Example\n製造 (せいぞう) — <span lang=\"en\">manufacture</span>\n"
+  },
+  {
+    "id": "03cb33d3",
+    "type": "radical",
+    "word": "門",
+    "reading": "もんがまえ",
+    "meaning": "gate",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "kamae"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "門",
+    "base": "門",
+    "name": "もんがまえ",
+    "position": {
+      "name": "kamae",
+      "side": "enclosure",
+      "raw": "kamae (enclosure)"
+    },
+    "examples": [
+      {
+        "kanji": "開く",
+        "kana": "あく",
+        "gloss": "open"
+      },
+      {
+        "kanji": "閉じる",
+        "kana": "とじる",
+        "gloss": "close"
+      },
+      {
+        "kanji": "間",
+        "kana": "あいだ",
+        "gloss": "interval"
+      },
+      {
+        "kanji": "聞く",
+        "kana": "きく",
+        "gloss": "listen"
+      }
+    ],
+    "explanation": "## 門 — もんがまえ\n\n- **Type**: 部首 radical · kamae (enclosure)\n- **Meaning**: <span lang=\"en\">gate</span>\n- **Standalone form**: 門\n- **JLPT**: N5\n\n### Words that use 門\n| Word | Reading | Meaning |\n|---|---|---|\n| 開く | あく | <span lang=\"en\">open</span> |\n| 閉じる | とじる | <span lang=\"en\">close</span> |\n| 間 | あいだ | <span lang=\"en\">interval</span> |\n| 聞く | きく | <span lang=\"en\">listen</span> |\n"
+  },
+  {
+    "id": "07737f32",
+    "type": "phonetic",
+    "word": "也",
+    "reading": "チ／タ／シ",
+    "meaning": "sound mark · unreliable",
+    "level": "N4",
+    "tags": [
+      "phonetic",
+      "unreliable"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "地球",
+    "onyomi": [
+      "チ",
+      "タ",
+      "シ"
+    ],
+    "reliability": "unreliable",
+    "family": [
+      {
+        "kanji": "地"
+      },
+      {
+        "kanji": "池"
+      },
+      {
+        "kanji": "他"
+      },
+      {
+        "kanji": "施"
+      },
+      {
+        "kanji": "弛"
+      }
+    ],
+    "rogues": [],
+    "spread": [
+      {
+        "reading": "チ",
+        "members": [
+          "地",
+          "池"
+        ]
+      },
+      {
+        "reading": "タ",
+        "members": [
+          "他"
+        ]
+      },
+      {
+        "reading": "シ",
+        "members": [
+          "施",
+          "弛"
+        ]
+      }
+    ],
+    "example": {
+      "word": "地球",
+      "reading": "ちきゅう",
+      "meaning": "Earth"
+    },
+    "explanation": "## 也 — チ／タ／シ  🔴\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: チ／タ／シ\n- **Reliability**: 🔴 Unreliable — scatters; learn each per word\n- **JLPT**: N4\n\n### How it works\nEach member is a **radical + 也**: the radical gives the *meaning*, while **也** carries the **チ／タ／シ** sound. Strip the radical off an unknown kanji, spot **也**, and you can usually read it.\n\n**Don't predict** from 也 — it scatters; learn each member's reading per word.\n\n### Family — reading → members\n| Reading | Members |\n|---|---|\n| チ | 地・池 |\n| タ | 他 |\n| シ | 施・弛 |\n\n### Example\n地球 (ちきゅう) — <span lang=\"en\">Earth</span>\n"
+  },
+  {
+    "id": "10baab48",
+    "type": "phonetic",
+    "word": "朱",
+    "reading": "シュ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "特殊",
+    "onyomi": [
+      "シュ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "殊",
+        "gloss": "special"
+      },
+      {
+        "kanji": "珠",
+        "gloss": "pearl"
+      },
+      {
+        "kanji": "蛛",
+        "gloss": "spider"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "特殊",
+      "reading": "とくしゅ",
+      "meaning": "special"
+    },
+    "explanation": "## 朱 — シュ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: シュ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 朱**: the radical gives the *meaning*, while **朱** carries the **シュ** sound. Strip the radical off an unknown kanji, spot **朱**, and you can usually read it.\n\nTrust it — every member below reads **シュ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 殊 | <span lang=\"en\">special</span> |\n| 珠 | <span lang=\"en\">pearl</span> |\n| 蛛 | <span lang=\"en\">spider</span> |\n\n### Example\n特殊 (とくしゅ) — <span lang=\"en\">special</span>\n"
+  },
+  {
+    "id": "12468889",
+    "type": "radical",
+    "word": "女",
+    "reading": "おんなへん",
+    "meaning": "woman",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "女",
+    "base": "女",
+    "name": "おんなへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "姉",
+        "kana": "あね",
+        "gloss": "elder sister"
+      },
+      {
+        "kanji": "妹",
+        "kana": "いもうと",
+        "gloss": "younger sister"
+      },
+      {
+        "kanji": "始める",
+        "kana": "はじめる",
+        "gloss": "begin"
+      },
+      {
+        "kanji": "好き",
+        "kana": "すき",
+        "gloss": "like"
+      }
+    ],
+    "explanation": "## 女 — おんなへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">woman</span>\n- **Standalone form**: 女\n- **JLPT**: N5\n\n### Words that use 女\n| Word | Reading | Meaning |\n|---|---|---|\n| 姉 | あね | <span lang=\"en\">elder sister</span> |\n| 妹 | いもうと | <span lang=\"en\">younger sister</span> |\n| 始める | はじめる | <span lang=\"en\">begin</span> |\n| 好き | すき | <span lang=\"en\">like</span> |\n"
+  },
+  {
+    "id": "12672200",
+    "type": "phonetic",
+    "word": "生",
+    "reading": "セイ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "性格",
+    "onyomi": [
+      "セイ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "性",
+        "gloss": "nature"
+      },
+      {
+        "kanji": "姓",
+        "gloss": "surname"
+      },
+      {
+        "kanji": "星",
+        "gloss": "star"
+      },
+      {
+        "kanji": "牲",
+        "gloss": "sacrifice"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "性格",
+      "reading": "せいかく",
+      "meaning": "personality"
+    },
+    "explanation": "## 生 — セイ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: セイ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 生**: the radical gives the *meaning*, while **生** carries the **セイ** sound. Strip the radical off an unknown kanji, spot **生**, and you can usually read it.\n\nTrust it — every member below reads **セイ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 性 | <span lang=\"en\">nature</span> |\n| 姓 | <span lang=\"en\">surname</span> |\n| 星 | <span lang=\"en\">star</span> |\n| 牲 | <span lang=\"en\">sacrifice</span> |\n\n### Example\n性格 (せいかく) — <span lang=\"en\">personality</span>\n"
+  },
+  {
+    "id": "16ef4dbc",
+    "type": "phonetic",
+    "word": "喿",
+    "reading": "ソウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "操作",
+    "onyomi": [
+      "ソウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "操",
+        "gloss": "manipulate"
+      },
+      {
+        "kanji": "燥",
+        "gloss": "dry"
+      },
+      {
+        "kanji": "藻",
+        "gloss": "algae"
+      },
+      {
+        "kanji": "躁",
+        "gloss": "mania"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "操作",
+      "reading": "そうさ",
+      "meaning": "operation"
+    },
+    "explanation": "## 喿 — ソウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ソウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 喿**: the radical gives the *meaning*, while **喿** carries the **ソウ** sound. Strip the radical off an unknown kanji, spot **喿**, and you can usually read it.\n\nTrust it — every member below reads **ソウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 操 | <span lang=\"en\">manipulate</span> |\n| 燥 | <span lang=\"en\">dry</span> |\n| 藻 | <span lang=\"en\">algae</span> |\n| 躁 | <span lang=\"en\">mania</span> |\n\n### Example\n操作 (そうさ) — <span lang=\"en\">operation</span>\n"
+  },
+  {
+    "id": "1840004f",
+    "type": "radical",
+    "word": "扌",
+    "reading": "てへん",
+    "meaning": "hand / action",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "手",
+    "base": "手",
+    "name": "てへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "持つ",
+        "kana": "もつ",
+        "gloss": "hold"
+      },
+      {
+        "kanji": "押す",
+        "kana": "おす",
+        "gloss": "push"
+      },
+      {
+        "kanji": "投げる",
+        "kana": "なげる",
+        "gloss": "throw"
+      },
+      {
+        "kanji": "指",
+        "kana": "ゆび",
+        "gloss": "finger"
+      }
+    ],
+    "explanation": "## 扌 — てへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">hand / action</span>\n- **Standalone form**: 手\n- **JLPT**: N5\n\n### Words that use 扌\n| Word | Reading | Meaning |\n|---|---|---|\n| 持つ | もつ | <span lang=\"en\">hold</span> |\n| 押す | おす | <span lang=\"en\">push</span> |\n| 投げる | なげる | <span lang=\"en\">throw</span> |\n| 指 | ゆび | <span lang=\"en\">finger</span> |\n"
+  },
+  {
+    "id": "1858a78b",
+    "type": "radical",
+    "word": "足",
+    "reading": "あしへん",
+    "meaning": "foot / movement",
+    "level": "N2",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "足",
+    "base": "足",
+    "name": "あしへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "道路",
+        "kana": "どうろ",
+        "gloss": "road"
+      },
+      {
+        "kanji": "踏む",
+        "kana": "ふむ",
+        "gloss": "step"
+      },
+      {
+        "kanji": "跳ぶ",
+        "kana": "とぶ",
+        "gloss": "jump"
+      },
+      {
+        "kanji": "距離",
+        "kana": "きょり",
+        "gloss": "distance"
+      }
+    ],
+    "explanation": "## 足 — あしへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">foot / movement</span>\n- **Standalone form**: 足\n- **JLPT**: N2\n\n### Words that use 足\n| Word | Reading | Meaning |\n|---|---|---|\n| 道路 | どうろ | <span lang=\"en\">road</span> |\n| 踏む | ふむ | <span lang=\"en\">step</span> |\n| 跳ぶ | とぶ | <span lang=\"en\">jump</span> |\n| 距離 | きょり | <span lang=\"en\">distance</span> |\n"
+  },
+  {
+    "id": "27cf3688",
+    "type": "phonetic",
+    "word": "列",
+    "reading": "レツ",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "激烈",
+    "onyomi": [
+      "レツ"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "烈"
+      },
+      {
+        "kanji": "裂"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "例",
+        "reading": "レイ"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "激烈",
+      "reading": "げきれつ",
+      "meaning": "fierce"
+    },
+    "explanation": "## 列 — レツ  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: レツ\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 列**: the radical gives the *meaning*, while **列** carries the **レツ** sound. Strip the radical off an unknown kanji, spot **列**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n烈・裂\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 例 | **レイ** |\n\n### Example\n激烈 (げきれつ) — <span lang=\"en\">fierce</span>\n"
+  },
+  {
+    "id": "28b8bc17",
+    "type": "phonetic",
+    "word": "司",
+    "reading": "シ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "飼育",
+    "onyomi": [
+      "シ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "伺",
+        "gloss": "inquire"
+      },
+      {
+        "kanji": "詞",
+        "gloss": "word"
+      },
+      {
+        "kanji": "飼",
+        "gloss": "raise"
+      },
+      {
+        "kanji": "嗣",
+        "gloss": "heir"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "飼育",
+      "reading": "しいく",
+      "meaning": "raising (animals)"
+    },
+    "explanation": "## 司 — シ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: シ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 司**: the radical gives the *meaning*, while **司** carries the **シ** sound. Strip the radical off an unknown kanji, spot **司**, and you can usually read it.\n\nTrust it — every member below reads **シ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 伺 | <span lang=\"en\">inquire</span> |\n| 詞 | <span lang=\"en\">word</span> |\n| 飼 | <span lang=\"en\">raise</span> |\n| 嗣 | <span lang=\"en\">heir</span> |\n\n### Example\n飼育 (しいく) — <span lang=\"en\">raising (animals)</span>\n"
+  },
+  {
+    "id": "2acba589",
+    "type": "phonetic",
+    "word": "求",
+    "reading": "キュウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "救急",
+    "onyomi": [
+      "キュウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "球",
+        "gloss": "ball"
+      },
+      {
+        "kanji": "救",
+        "gloss": "rescue"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "救急",
+      "reading": "きゅうきゅう",
+      "meaning": "emergency"
+    },
+    "explanation": "## 求 — キュウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: キュウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 求**: the radical gives the *meaning*, while **求** carries the **キュウ** sound. Strip the radical off an unknown kanji, spot **求**, and you can usually read it.\n\nTrust it — every member below reads **キュウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 球 | <span lang=\"en\">ball</span> |\n| 救 | <span lang=\"en\">rescue</span> |\n\n### Example\n救急 (きゅうきゅう) — <span lang=\"en\">emergency</span>\n"
+  },
+  {
+    "id": "2af8cb45",
+    "type": "phonetic",
+    "word": "兼",
+    "reading": "ケン",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "機嫌",
+    "onyomi": [
+      "ケン"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "嫌",
+        "gloss": "dislike"
+      },
+      {
+        "kanji": "謙",
+        "gloss": "modest"
+      },
+      {
+        "kanji": "鎌",
+        "gloss": "sickle"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "機嫌",
+      "reading": "きげん",
+      "meaning": "mood"
+    },
+    "explanation": "## 兼 — ケン  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ケン\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 兼**: the radical gives the *meaning*, while **兼** carries the **ケン** sound. Strip the radical off an unknown kanji, spot **兼**, and you can usually read it.\n\nTrust it — every member below reads **ケン** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 嫌 | <span lang=\"en\">dislike</span> |\n| 謙 | <span lang=\"en\">modest</span> |\n| 鎌 | <span lang=\"en\">sickle</span> |\n\n### Example\n機嫌 (きげん) — <span lang=\"en\">mood</span>\n"
+  },
+  {
+    "id": "2d37d264",
+    "type": "radical",
+    "word": "氵",
+    "reading": "さんずい",
+    "meaning": "water / liquid",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "水",
+    "base": "水",
+    "name": "さんずい",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "海",
+        "kana": "うみ",
+        "gloss": "sea"
+      },
+      {
+        "kanji": "泳ぐ",
+        "kana": "およぐ",
+        "gloss": "swim"
+      },
+      {
+        "kanji": "洗う",
+        "kana": "あらう",
+        "gloss": "wash"
+      },
+      {
+        "kanji": "流れる",
+        "kana": "ながれる",
+        "gloss": "flow"
+      }
+    ],
+    "explanation": "## 氵 — さんずい\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">water / liquid</span>\n- **Standalone form**: 水\n- **JLPT**: N5\n\n### Words that use 氵\n| Word | Reading | Meaning |\n|---|---|---|\n| 海 | うみ | <span lang=\"en\">sea</span> |\n| 泳ぐ | およぐ | <span lang=\"en\">swim</span> |\n| 洗う | あらう | <span lang=\"en\">wash</span> |\n| 流れる | ながれる | <span lang=\"en\">flow</span> |\n"
+  },
+  {
+    "id": "31cf3f03",
+    "type": "phonetic",
+    "word": "化",
+    "reading": "カ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N4",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "文化",
+    "onyomi": [
+      "カ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "花",
+        "gloss": "flower"
+      },
+      {
+        "kanji": "貨",
+        "gloss": "goods"
+      },
+      {
+        "kanji": "靴",
+        "gloss": "shoe"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaning": "culture"
+    },
+    "explanation": "## 化 — カ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: カ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N4\n\n### How it works\nEach member is a **radical + 化**: the radical gives the *meaning*, while **化** carries the **カ** sound. Strip the radical off an unknown kanji, spot **化**, and you can usually read it.\n\nTrust it — every member below reads **カ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 花 | <span lang=\"en\">flower</span> |\n| 貨 | <span lang=\"en\">goods</span> |\n| 靴 | <span lang=\"en\">shoe</span> |\n\n### Example\n文化 (ぶんか) — <span lang=\"en\">culture</span>\n"
+  },
+  {
+    "id": "3310cdc4",
+    "type": "phonetic",
+    "word": "寺",
+    "reading": "ジ／シ",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N4",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "時間",
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "持"
+      },
+      {
+        "kanji": "時"
+      },
+      {
+        "kanji": "侍"
+      },
+      {
+        "kanji": "詩"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "待",
+        "reading": "タイ"
+      },
+      {
+        "kanji": "特",
+        "reading": "トク"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    },
+    "explanation": "## 寺 — ジ／シ  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ジ／シ\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N4\n\n### How it works\nEach member is a **radical + 寺**: the radical gives the *meaning*, while **寺** carries the **ジ／シ** sound. Strip the radical off an unknown kanji, spot **寺**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n持・時・侍・詩\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 待 | **タイ** |\n| 特 | **トク** |\n\n### Example\n時間 (じかん) — <span lang=\"en\">time</span>\n"
+  },
+  {
+    "id": "3539159a",
+    "type": "radical",
+    "word": "釒",
+    "reading": "かねへん",
+    "meaning": "metal / money",
+    "level": "N4",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "金",
+    "base": "金",
+    "name": "かねへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "鉄",
+        "kana": "てつ",
+        "gloss": "iron"
+      },
+      {
+        "kanji": "銀",
+        "kana": "ぎん",
+        "gloss": "silver"
+      },
+      {
+        "kanji": "鏡",
+        "kana": "かがみ",
+        "gloss": "mirror"
+      },
+      {
+        "kanji": "針",
+        "kana": "はり",
+        "gloss": "needle"
+      }
+    ],
+    "explanation": "## 釒 — かねへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">metal / money</span>\n- **Standalone form**: 金\n- **JLPT**: N4\n\n### Words that use 釒\n| Word | Reading | Meaning |\n|---|---|---|\n| 鉄 | てつ | <span lang=\"en\">iron</span> |\n| 銀 | ぎん | <span lang=\"en\">silver</span> |\n| 鏡 | かがみ | <span lang=\"en\">mirror</span> |\n| 針 | はり | <span lang=\"en\">needle</span> |\n"
+  },
+  {
+    "id": "37fa649e",
+    "type": "phonetic",
+    "word": "僉",
+    "reading": "ケン",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "検査",
+    "onyomi": [
+      "ケン"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "検",
+        "gloss": "examine"
+      },
+      {
+        "kanji": "験",
+        "gloss": "test"
+      },
+      {
+        "kanji": "険",
+        "gloss": "steep"
+      },
+      {
+        "kanji": "剣",
+        "gloss": "sword"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "検査",
+      "reading": "けんさ",
+      "meaning": "inspection"
+    },
+    "explanation": "## 僉 — ケン  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ケン\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 僉**: the radical gives the *meaning*, while **僉** carries the **ケン** sound. Strip the radical off an unknown kanji, spot **僉**, and you can usually read it.\n\nTrust it — every member below reads **ケン** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 検 | <span lang=\"en\">examine</span> |\n| 験 | <span lang=\"en\">test</span> |\n| 険 | <span lang=\"en\">steep</span> |\n| 剣 | <span lang=\"en\">sword</span> |\n\n### Example\n検査 (けんさ) — <span lang=\"en\">inspection</span>\n"
+  },
+  {
+    "id": "3802ee62",
+    "type": "radical",
+    "word": "雨",
+    "reading": "あめかんむり",
+    "meaning": "weather",
+    "level": "N4",
+    "tags": [
+      "radical",
+      "kanmuri"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "雨",
+    "base": "雨",
+    "name": "あめかんむり",
+    "position": {
+      "name": "kanmuri",
+      "side": "top",
+      "raw": "kanmuri (top)"
+    },
+    "examples": [
+      {
+        "kanji": "雪",
+        "kana": "ゆき",
+        "gloss": "snow"
+      },
+      {
+        "kanji": "雲",
+        "kana": "くも",
+        "gloss": "cloud"
+      },
+      {
+        "kanji": "電気",
+        "kana": "でんき",
+        "gloss": "electricity"
+      },
+      {
+        "kanji": "雷",
+        "kana": "かみなり",
+        "gloss": "thunder"
+      }
+    ],
+    "explanation": "## 雨 — あめかんむり\n\n- **Type**: 部首 radical · kanmuri (top)\n- **Meaning**: <span lang=\"en\">weather</span>\n- **Standalone form**: 雨\n- **JLPT**: N4\n\n### Words that use 雨\n| Word | Reading | Meaning |\n|---|---|---|\n| 雪 | ゆき | <span lang=\"en\">snow</span> |\n| 雲 | くも | <span lang=\"en\">cloud</span> |\n| 電気 | でんき | <span lang=\"en\">electricity</span> |\n| 雷 | かみなり | <span lang=\"en\">thunder</span> |\n"
+  },
+  {
+    "id": "3e91ee9f",
+    "type": "phonetic",
+    "word": "巠",
+    "reading": "ケイ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "経済",
+    "onyomi": [
+      "ケイ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "経",
+        "gloss": "pass through"
+      },
+      {
+        "kanji": "軽",
+        "gloss": "light"
+      },
+      {
+        "kanji": "径",
+        "gloss": "path"
+      },
+      {
+        "kanji": "茎",
+        "gloss": "stem"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "経済",
+      "reading": "けいざい",
+      "meaning": "economy"
+    },
+    "explanation": "## 巠 — ケイ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ケイ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 巠**: the radical gives the *meaning*, while **巠** carries the **ケイ** sound. Strip the radical off an unknown kanji, spot **巠**, and you can usually read it.\n\nTrust it — every member below reads **ケイ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 経 | <span lang=\"en\">pass through</span> |\n| 軽 | <span lang=\"en\">light</span> |\n| 径 | <span lang=\"en\">path</span> |\n| 茎 | <span lang=\"en\">stem</span> |\n\n### Example\n経済 (けいざい) — <span lang=\"en\">economy</span>\n"
+  },
+  {
+    "id": "3f5fb4c4",
+    "type": "phonetic",
+    "word": "令",
+    "reading": "レイ",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "冷静",
+    "onyomi": [
+      "レイ"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "冷"
+      },
+      {
+        "kanji": "鈴"
+      },
+      {
+        "kanji": "零"
+      },
+      {
+        "kanji": "齢"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "領",
+        "reading": "リョウ"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "冷静",
+      "reading": "れいせい",
+      "meaning": "calm"
+    },
+    "explanation": "## 令 — レイ  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: レイ\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 令**: the radical gives the *meaning*, while **令** carries the **レイ** sound. Strip the radical off an unknown kanji, spot **令**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n冷・鈴・零・齢\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 領 | **リョウ** |\n\n### Example\n冷静 (れいせい) — <span lang=\"en\">calm</span>\n"
+  },
+  {
+    "id": "46173f07",
+    "type": "phonetic",
+    "word": "咸",
+    "reading": "カン",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "感動",
+    "onyomi": [
+      "カン"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "感"
+      },
+      {
+        "kanji": "憾"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "減",
+        "reading": "ゲン"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "being moved"
+    },
+    "explanation": "## 咸 — カン  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: カン\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 咸**: the radical gives the *meaning*, while **咸** carries the **カン** sound. Strip the radical off an unknown kanji, spot **咸**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n感・憾\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 減 | **ゲン** |\n\n### Example\n感動 (かんどう) — <span lang=\"en\">being moved</span>\n"
+  },
+  {
+    "id": "463f1133",
+    "type": "phonetic",
+    "word": "古",
+    "reading": "コ",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "個人",
+    "onyomi": [
+      "コ"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "故"
+      },
+      {
+        "kanji": "個"
+      },
+      {
+        "kanji": "固"
+      },
+      {
+        "kanji": "湖"
+      },
+      {
+        "kanji": "枯"
+      },
+      {
+        "kanji": "姑"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "苦",
+        "reading": "ク"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "個人",
+      "reading": "こじん",
+      "meaning": "individual"
+    },
+    "explanation": "## 古 — コ  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: コ\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 古**: the radical gives the *meaning*, while **古** carries the **コ** sound. Strip the radical off an unknown kanji, spot **古**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n故・個・固・湖・枯・姑\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 苦 | **ク** |\n\n### Example\n個人 (こじん) — <span lang=\"en\">individual</span>\n"
+  },
+  {
+    "id": "46e44bff",
+    "type": "phonetic",
+    "word": "是",
+    "reading": "ゼ／テイ／ダイ",
+    "meaning": "sound mark · unreliable",
+    "level": "N4",
+    "tags": [
+      "phonetic",
+      "unreliable"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "問題",
+    "onyomi": [
+      "ゼ",
+      "テイ",
+      "ダイ"
+    ],
+    "reliability": "unreliable",
+    "family": [
+      {
+        "kanji": "提"
+      },
+      {
+        "kanji": "堤"
+      },
+      {
+        "kanji": "題"
+      }
+    ],
+    "rogues": [],
+    "spread": [
+      {
+        "reading": "ゼ",
+        "members": [
+          "是"
+        ]
+      },
+      {
+        "reading": "テイ",
+        "members": [
+          "提",
+          "堤"
+        ]
+      },
+      {
+        "reading": "ダイ",
+        "members": [
+          "題"
+        ]
+      }
+    ],
+    "example": {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "problem"
+    },
+    "explanation": "## 是 — ゼ／テイ／ダイ  🔴\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ゼ／テイ／ダイ\n- **Reliability**: 🔴 Unreliable — scatters; learn each per word\n- **JLPT**: N4\n\n### How it works\nEach member is a **radical + 是**: the radical gives the *meaning*, while **是** carries the **ゼ／テイ／ダイ** sound. Strip the radical off an unknown kanji, spot **是**, and you can usually read it.\n\n**Don't predict** from 是 — it scatters; learn each member's reading per word.\n\n### Family — reading → members\n| Reading | Members |\n|---|---|\n| ゼ | 是 |\n| テイ | 提・堤 |\n| ダイ | 題 |\n\n### Example\n問題 (もんだい) — <span lang=\"en\">problem</span>\n"
+  },
+  {
+    "id": "526e432d",
+    "type": "phonetic",
+    "word": "章",
+    "reading": "ショウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "障害",
+    "onyomi": [
+      "ショウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "障",
+        "gloss": "hinder"
+      },
+      {
+        "kanji": "彰",
+        "gloss": "manifest"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "障害",
+      "reading": "しょうがい",
+      "meaning": "obstacle"
+    },
+    "explanation": "## 章 — ショウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ショウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 章**: the radical gives the *meaning*, while **章** carries the **ショウ** sound. Strip the radical off an unknown kanji, spot **章**, and you can usually read it.\n\nTrust it — every member below reads **ショウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 障 | <span lang=\"en\">hinder</span> |\n| 彰 | <span lang=\"en\">manifest</span> |\n\n### Example\n障害 (しょうがい) — <span lang=\"en\">obstacle</span>\n"
+  },
+  {
+    "id": "54e7e84c",
+    "type": "radical",
+    "word": "心",
+    "reading": "こころ",
+    "meaning": "heart / emotion",
+    "level": "N4",
+    "tags": [
+      "radical",
+      "ashi"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "心",
+    "base": "心",
+    "name": "こころ",
+    "position": {
+      "name": "ashi",
+      "side": "bottom",
+      "raw": "ashi (bottom)"
+    },
+    "examples": [
+      {
+        "kanji": "思う",
+        "kana": "おもう",
+        "gloss": "think"
+      },
+      {
+        "kanji": "感じる",
+        "kana": "かんじる",
+        "gloss": "feel"
+      },
+      {
+        "kanji": "忘れる",
+        "kana": "わすれる",
+        "gloss": "forget"
+      },
+      {
+        "kanji": "急ぐ",
+        "kana": "いそぐ",
+        "gloss": "hurry"
+      }
+    ],
+    "explanation": "## 心 — こころ\n\n- **Type**: 部首 radical · ashi (bottom)\n- **Meaning**: <span lang=\"en\">heart / emotion</span>\n- **Standalone form**: 心\n- **JLPT**: N4\n\n### Words that use 心\n| Word | Reading | Meaning |\n|---|---|---|\n| 思う | おもう | <span lang=\"en\">think</span> |\n| 感じる | かんじる | <span lang=\"en\">feel</span> |\n| 忘れる | わすれる | <span lang=\"en\">forget</span> |\n| 急ぐ | いそぐ | <span lang=\"en\">hurry</span> |\n"
+  },
+  {
+    "id": "558b2180",
+    "type": "phonetic",
+    "word": "直",
+    "reading": "チョク／チ／ショク",
+    "meaning": "sound mark · unreliable",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "unreliable"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "価値",
+    "onyomi": [
+      "チョク",
+      "チ",
+      "ショク"
+    ],
+    "reliability": "unreliable",
+    "family": [
+      {
+        "kanji": "値"
+      },
+      {
+        "kanji": "置"
+      },
+      {
+        "kanji": "植"
+      },
+      {
+        "kanji": "殖"
+      }
+    ],
+    "rogues": [],
+    "spread": [
+      {
+        "reading": "チョク",
+        "members": [
+          "直"
+        ]
+      },
+      {
+        "reading": "チ",
+        "members": [
+          "値",
+          "置"
+        ]
+      },
+      {
+        "reading": "ショク",
+        "members": [
+          "植",
+          "殖"
+        ]
+      }
+    ],
+    "example": {
+      "word": "価値",
+      "reading": "かち",
+      "meaning": "value"
+    },
+    "explanation": "## 直 — チョク／チ／ショク  🔴\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: チョク／チ／ショク\n- **Reliability**: 🔴 Unreliable — scatters; learn each per word\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 直**: the radical gives the *meaning*, while **直** carries the **チョク／チ／ショク** sound. Strip the radical off an unknown kanji, spot **直**, and you can usually read it.\n\n**Don't predict** from 直 — it scatters; learn each member's reading per word.\n\n### Family — reading → members\n| Reading | Members |\n|---|---|\n| チョク | 直 |\n| チ | 値・置 |\n| ショク | 植・殖 |\n\n### Example\n価値 (かち) — <span lang=\"en\">value</span>\n"
+  },
+  {
+    "id": "598841e1",
+    "type": "radical",
+    "word": "阝",
+    "reading": "おおざと",
+    "meaning": "village / place",
+    "level": "N3",
+    "tags": [
+      "radical",
+      "tsukuri"
+    ],
+    "lookAlike": false,
+    "note": "Right side only — left 阝 is こざと",
+    "lookup": "邑",
+    "base": "邑",
+    "name": "おおざと",
+    "position": {
+      "name": "tsukuri",
+      "side": "right",
+      "raw": "tsukuri (right)"
+    },
+    "examples": [
+      {
+        "kanji": "都",
+        "kana": "みやこ",
+        "gloss": "capital"
+      },
+      {
+        "kanji": "部屋",
+        "kana": "へや",
+        "gloss": "room"
+      },
+      {
+        "kanji": "郡",
+        "kana": "ぐん",
+        "gloss": "county"
+      },
+      {
+        "kanji": "郊外",
+        "kana": "こうがい",
+        "gloss": "suburbs"
+      }
+    ],
+    "explanation": "## 阝 — おおざと\n\n- **Type**: 部首 radical · tsukuri (right)\n- **Meaning**: <span lang=\"en\">village / place</span>\n- **Standalone form**: 邑\n- **JLPT**: N3\n\n### Words that use 阝\n| Word | Reading | Meaning |\n|---|---|---|\n| 都 | みやこ | <span lang=\"en\">capital</span> |\n| 部屋 | へや | <span lang=\"en\">room</span> |\n| 郡 | ぐん | <span lang=\"en\">county</span> |\n| 郊外 | こうがい | <span lang=\"en\">suburbs</span> |\n\n### Note\nRight side only — left 阝 is こざと\n"
+  },
+  {
+    "id": "5fb8b8a0",
+    "type": "phonetic",
+    "word": "尚",
+    "reading": "ショウ",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "賞金",
+    "onyomi": [
+      "ショウ"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "賞"
+      },
+      {
+        "kanji": "償"
+      },
+      {
+        "kanji": "掌"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "党",
+        "reading": "トウ"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "賞金",
+      "reading": "しょうきん",
+      "meaning": "prize money"
+    },
+    "explanation": "## 尚 — ショウ  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ショウ\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 尚**: the radical gives the *meaning*, while **尚** carries the **ショウ** sound. Strip the radical off an unknown kanji, spot **尚**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n賞・償・掌\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 党 | **トウ** |\n\n### Example\n賞金 (しょうきん) — <span lang=\"en\">prize money</span>\n"
+  },
+  {
+    "id": "65f2add1",
+    "type": "phonetic",
+    "word": "侖",
+    "reading": "リン",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N1",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "倫理",
+    "onyomi": [
+      "リン"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "輪"
+      },
+      {
+        "kanji": "倫"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "論",
+        "reading": "ロン"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "倫理",
+      "reading": "りんり",
+      "meaning": "ethics"
+    },
+    "explanation": "## 侖 — リン  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: リン\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N1\n\n### How it works\nEach member is a **radical + 侖**: the radical gives the *meaning*, while **侖** carries the **リン** sound. Strip the radical off an unknown kanji, spot **侖**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n輪・倫\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 論 | **ロン** |\n\n### Example\n倫理 (りんり) — <span lang=\"en\">ethics</span>\n"
+  },
+  {
+    "id": "69bce705",
+    "type": "radical",
+    "word": "亻",
+    "reading": "にんべん",
+    "meaning": "person / human action",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "人",
+    "base": "人",
+    "name": "にんべん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "休む",
+        "kana": "やすむ",
+        "gloss": "rest"
+      },
+      {
+        "kanji": "体",
+        "kana": "からだ",
+        "gloss": "body"
+      },
+      {
+        "kanji": "住所",
+        "kana": "じゅうしょ",
+        "gloss": "address"
+      },
+      {
+        "kanji": "作る",
+        "kana": "つくる",
+        "gloss": "make"
+      }
+    ],
+    "explanation": "## 亻 — にんべん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">person / human action</span>\n- **Standalone form**: 人\n- **JLPT**: N5\n\n### Words that use 亻\n| Word | Reading | Meaning |\n|---|---|---|\n| 休む | やすむ | <span lang=\"en\">rest</span> |\n| 体 | からだ | <span lang=\"en\">body</span> |\n| 住所 | じゅうしょ | <span lang=\"en\">address</span> |\n| 作る | つくる | <span lang=\"en\">make</span> |\n"
+  },
+  {
+    "id": "6f88b486",
+    "type": "phonetic",
+    "word": "知",
+    "reading": "チ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N1",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "音痴",
+    "onyomi": [
+      "チ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "痴",
+        "gloss": "foolish"
+      },
+      {
+        "kanji": "智",
+        "gloss": "wisdom"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "音痴",
+      "reading": "おんち",
+      "meaning": "tone-deaf"
+    },
+    "explanation": "## 知 — チ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: チ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N1\n\n### How it works\nEach member is a **radical + 知**: the radical gives the *meaning*, while **知** carries the **チ** sound. Strip the radical off an unknown kanji, spot **知**, and you can usually read it.\n\nTrust it — every member below reads **チ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 痴 | <span lang=\"en\">foolish</span> |\n| 智 | <span lang=\"en\">wisdom</span> |\n\n### Example\n音痴 (おんち) — <span lang=\"en\">tone-deaf</span>\n"
+  },
+  {
+    "id": "6fe5d05f",
+    "type": "radical",
+    "word": "衤",
+    "reading": "ころもへん",
+    "meaning": "clothing",
+    "level": "N3",
+    "tags": [
+      "radical",
+      "hen",
+      "look-alike"
+    ],
+    "lookAlike": true,
+    "note": "Extra stroke vs 礻",
+    "lookup": "衣",
+    "base": "衣",
+    "name": "ころもへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "補う",
+        "kana": "おぎなう",
+        "gloss": "supplement"
+      },
+      {
+        "kanji": "複雑",
+        "kana": "ふくざつ",
+        "gloss": "complex"
+      },
+      {
+        "kanji": "初め",
+        "kana": "はじめ",
+        "gloss": "beginning"
+      },
+      {
+        "kanji": "被る",
+        "kana": "かぶる",
+        "gloss": "wear"
+      }
+    ],
+    "explanation": "## 衤 — ころもへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">clothing</span>\n- **Standalone form**: 衣\n- **JLPT**: N3\n\n### Words that use 衤\n| Word | Reading | Meaning |\n|---|---|---|\n| 補う | おぎなう | <span lang=\"en\">supplement</span> |\n| 複雑 | ふくざつ | <span lang=\"en\">complex</span> |\n| 初め | はじめ | <span lang=\"en\">beginning</span> |\n| 被る | かぶる | <span lang=\"en\">wear</span> |\n\n### ⚠️ Look-alike\nExtra stroke vs 礻\n"
+  },
+  {
+    "id": "726733f1",
+    "type": "phonetic",
+    "word": "堇",
+    "reading": "キン",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "勤務",
+    "onyomi": [
+      "キン"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "勤",
+        "gloss": "work"
+      },
+      {
+        "kanji": "謹",
+        "gloss": "humbly"
+      },
+      {
+        "kanji": "僅",
+        "gloss": "slightly"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "勤務",
+      "reading": "きんむ",
+      "meaning": "work/duty"
+    },
+    "explanation": "## 堇 — キン  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: キン\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 堇**: the radical gives the *meaning*, while **堇** carries the **キン** sound. Strip the radical off an unknown kanji, spot **堇**, and you can usually read it.\n\nTrust it — every member below reads **キン** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 勤 | <span lang=\"en\">work</span> |\n| 謹 | <span lang=\"en\">humbly</span> |\n| 僅 | <span lang=\"en\">slightly</span> |\n\n### Example\n勤務 (きんむ) — <span lang=\"en\">work/duty</span>\n"
+  },
+  {
+    "id": "729367ac",
+    "type": "radical",
+    "word": "木",
+    "reading": "きへん",
+    "meaning": "tree / wood",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "木",
+    "base": "木",
+    "name": "きへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "林",
+        "kana": "はやし",
+        "gloss": "woods"
+      },
+      {
+        "kanji": "村",
+        "kana": "むら",
+        "gloss": "village"
+      },
+      {
+        "kanji": "机",
+        "kana": "つくえ",
+        "gloss": "desk"
+      },
+      {
+        "kanji": "板",
+        "kana": "いた",
+        "gloss": "board"
+      }
+    ],
+    "explanation": "## 木 — きへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">tree / wood</span>\n- **Standalone form**: 木\n- **JLPT**: N5\n\n### Words that use 木\n| Word | Reading | Meaning |\n|---|---|---|\n| 林 | はやし | <span lang=\"en\">woods</span> |\n| 村 | むら | <span lang=\"en\">village</span> |\n| 机 | つくえ | <span lang=\"en\">desk</span> |\n| 板 | いた | <span lang=\"en\">board</span> |\n"
+  },
+  {
+    "id": "731ef0fc",
+    "type": "radical",
+    "word": "土",
+    "reading": "つちへん",
+    "meaning": "earth / ground",
+    "level": "N4",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "土",
+    "base": "土",
+    "name": "つちへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "地面",
+        "kana": "じめん",
+        "gloss": "ground"
+      },
+      {
+        "kanji": "場所",
+        "kana": "ばしょ",
+        "gloss": "place"
+      },
+      {
+        "kanji": "坂",
+        "kana": "さか",
+        "gloss": "slope"
+      },
+      {
+        "kanji": "城",
+        "kana": "しろ",
+        "gloss": "castle"
+      }
+    ],
+    "explanation": "## 土 — つちへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">earth / ground</span>\n- **Standalone form**: 土\n- **JLPT**: N4\n\n### Words that use 土\n| Word | Reading | Meaning |\n|---|---|---|\n| 地面 | じめん | <span lang=\"en\">ground</span> |\n| 場所 | ばしょ | <span lang=\"en\">place</span> |\n| 坂 | さか | <span lang=\"en\">slope</span> |\n| 城 | しろ | <span lang=\"en\">castle</span> |\n"
+  },
+  {
+    "id": "759a9cd7",
+    "type": "phonetic",
+    "word": "責",
+    "reading": "セキ",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "面積",
+    "onyomi": [
+      "セキ"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "績"
+      },
+      {
+        "kanji": "積"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "債",
+        "reading": "サイ"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "面積",
+      "reading": "めんせき",
+      "meaning": "area"
+    },
+    "explanation": "## 責 — セキ  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: セキ\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 責**: the radical gives the *meaning*, while **責** carries the **セキ** sound. Strip the radical off an unknown kanji, spot **責**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n績・積\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 債 | **サイ** |\n\n### Example\n面積 (めんせき) — <span lang=\"en\">area</span>\n"
+  },
+  {
+    "id": "78d6af3c",
+    "type": "phonetic",
+    "word": "容",
+    "reading": "ヨウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N1",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "溶解",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "溶",
+        "gloss": "melt"
+      },
+      {
+        "kanji": "熔",
+        "gloss": "smelt"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "溶解",
+      "reading": "ようかい",
+      "meaning": "dissolution"
+    },
+    "explanation": "## 容 — ヨウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ヨウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N1\n\n### How it works\nEach member is a **radical + 容**: the radical gives the *meaning*, while **容** carries the **ヨウ** sound. Strip the radical off an unknown kanji, spot **容**, and you can usually read it.\n\nTrust it — every member below reads **ヨウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 溶 | <span lang=\"en\">melt</span> |\n| 熔 | <span lang=\"en\">smelt</span> |\n\n### Example\n溶解 (ようかい) — <span lang=\"en\">dissolution</span>\n"
+  },
+  {
+    "id": "7e81f5a2",
+    "type": "phonetic",
+    "word": "喬",
+    "reading": "キョウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N1",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "矯正",
+    "onyomi": [
+      "キョウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "橋",
+        "gloss": "bridge"
+      },
+      {
+        "kanji": "矯",
+        "gloss": "correct"
+      },
+      {
+        "kanji": "嬌",
+        "gloss": "charm"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "矯正",
+      "reading": "きょうせい",
+      "meaning": "correction"
+    },
+    "explanation": "## 喬 — キョウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: キョウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N1\n\n### How it works\nEach member is a **radical + 喬**: the radical gives the *meaning*, while **喬** carries the **キョウ** sound. Strip the radical off an unknown kanji, spot **喬**, and you can usually read it.\n\nTrust it — every member below reads **キョウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 橋 | <span lang=\"en\">bridge</span> |\n| 矯 | <span lang=\"en\">correct</span> |\n| 嬌 | <span lang=\"en\">charm</span> |\n\n### Example\n矯正 (きょうせい) — <span lang=\"en\">correction</span>\n"
+  },
+  {
+    "id": "7e8c4bb9",
+    "type": "radical",
+    "word": "魚",
+    "reading": "うおへん",
+    "meaning": "fish",
+    "level": "N1",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "魚",
+    "base": "魚",
+    "name": "うおへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "鮮やか",
+        "kana": "あざやか",
+        "gloss": "vivid"
+      },
+      {
+        "kanji": "鯨",
+        "kana": "くじら",
+        "gloss": "whale"
+      },
+      {
+        "kanji": "鮭",
+        "kana": "さけ",
+        "gloss": "salmon"
+      },
+      {
+        "kanji": "鯛",
+        "kana": "たい",
+        "gloss": "sea bream"
+      }
+    ],
+    "explanation": "## 魚 — うおへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">fish</span>\n- **Standalone form**: 魚\n- **JLPT**: N1\n\n### Words that use 魚\n| Word | Reading | Meaning |\n|---|---|---|\n| 鮮やか | あざやか | <span lang=\"en\">vivid</span> |\n| 鯨 | くじら | <span lang=\"en\">whale</span> |\n| 鮭 | さけ | <span lang=\"en\">salmon</span> |\n| 鯛 | たい | <span lang=\"en\">sea bream</span> |\n"
+  },
+  {
+    "id": "7e909d0e",
+    "type": "radical",
+    "word": "灬",
+    "reading": "れっか",
+    "meaning": "fire (four dots)",
+    "level": "N3",
+    "tags": [
+      "radical",
+      "ashi"
+    ],
+    "lookAlike": false,
+    "note": "Four dots = fire, not water",
+    "lookup": "火",
+    "base": "火",
+    "name": "れっか",
+    "position": {
+      "name": "ashi",
+      "side": "bottom",
+      "raw": "ashi (bottom)"
+    },
+    "examples": [
+      {
+        "kanji": "無い",
+        "kana": "ない",
+        "gloss": "none"
+      },
+      {
+        "kanji": "熱い",
+        "kana": "あつい",
+        "gloss": "hot"
+      },
+      {
+        "kanji": "点",
+        "kana": "てん",
+        "gloss": "point"
+      },
+      {
+        "kanji": "焦げる",
+        "kana": "こげる",
+        "gloss": "scorch"
+      }
+    ],
+    "explanation": "## 灬 — れっか\n\n- **Type**: 部首 radical · ashi (bottom)\n- **Meaning**: <span lang=\"en\">fire (four dots)</span>\n- **Standalone form**: 火\n- **JLPT**: N3\n\n### Words that use 灬\n| Word | Reading | Meaning |\n|---|---|---|\n| 無い | ない | <span lang=\"en\">none</span> |\n| 熱い | あつい | <span lang=\"en\">hot</span> |\n| 点 | てん | <span lang=\"en\">point</span> |\n| 焦げる | こげる | <span lang=\"en\">scorch</span> |\n\n### Note\nFour dots = fire, not water\n"
+  },
+  {
+    "id": "7f595a86",
+    "type": "radical",
+    "word": "攵",
+    "reading": "のぶん",
+    "meaning": "strike / action",
+    "level": "N3",
+    "tags": [
+      "radical",
+      "tsukuri"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "攴",
+    "base": "攴",
+    "name": "のぶん",
+    "position": {
+      "name": "tsukuri",
+      "side": "right",
+      "raw": "tsukuri (right)"
+    },
+    "examples": [
+      {
+        "kanji": "改める",
+        "kana": "あらためる",
+        "gloss": "revise"
+      },
+      {
+        "kanji": "政治",
+        "kana": "せいじ",
+        "gloss": "politics"
+      },
+      {
+        "kanji": "教える",
+        "kana": "おしえる",
+        "gloss": "teach"
+      },
+      {
+        "kanji": "放す",
+        "kana": "はなす",
+        "gloss": "release"
+      }
+    ],
+    "explanation": "## 攵 — のぶん\n\n- **Type**: 部首 radical · tsukuri (right)\n- **Meaning**: <span lang=\"en\">strike / action</span>\n- **Standalone form**: 攴\n- **JLPT**: N3\n\n### Words that use 攵\n| Word | Reading | Meaning |\n|---|---|---|\n| 改める | あらためる | <span lang=\"en\">revise</span> |\n| 政治 | せいじ | <span lang=\"en\">politics</span> |\n| 教える | おしえる | <span lang=\"en\">teach</span> |\n| 放す | はなす | <span lang=\"en\">release</span> |\n"
+  },
+  {
+    "id": "87f3777c",
+    "type": "phonetic",
+    "word": "干",
+    "reading": "カン",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "新幹線",
+    "onyomi": [
+      "カン"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "刊",
+        "gloss": "publish"
+      },
+      {
+        "kanji": "汗",
+        "gloss": "sweat"
+      },
+      {
+        "kanji": "肝",
+        "gloss": "liver"
+      },
+      {
+        "kanji": "幹",
+        "gloss": "trunk"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "新幹線",
+      "reading": "しんかんせん",
+      "meaning": "bullet train"
+    },
+    "explanation": "## 干 — カン  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: カン\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 干**: the radical gives the *meaning*, while **干** carries the **カン** sound. Strip the radical off an unknown kanji, spot **干**, and you can usually read it.\n\nTrust it — every member below reads **カン** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 刊 | <span lang=\"en\">publish</span> |\n| 汗 | <span lang=\"en\">sweat</span> |\n| 肝 | <span lang=\"en\">liver</span> |\n| 幹 | <span lang=\"en\">trunk</span> |\n\n### Example\n新幹線 (しんかんせん) — <span lang=\"en\">bullet train</span>\n"
+  },
+  {
+    "id": "898f975e",
+    "type": "phonetic",
+    "word": "帝",
+    "reading": "テイ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N1",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "締結",
+    "onyomi": [
+      "テイ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "締",
+        "gloss": "tie"
+      },
+      {
+        "kanji": "諦",
+        "gloss": "give up"
+      },
+      {
+        "kanji": "蹄",
+        "gloss": "hoof"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "締結",
+      "reading": "ていけつ",
+      "meaning": "conclusion (of treaty)"
+    },
+    "explanation": "## 帝 — テイ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: テイ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N1\n\n### How it works\nEach member is a **radical + 帝**: the radical gives the *meaning*, while **帝** carries the **テイ** sound. Strip the radical off an unknown kanji, spot **帝**, and you can usually read it.\n\nTrust it — every member below reads **テイ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 締 | <span lang=\"en\">tie</span> |\n| 諦 | <span lang=\"en\">give up</span> |\n| 蹄 | <span lang=\"en\">hoof</span> |\n\n### Example\n締結 (ていけつ) — <span lang=\"en\">conclusion (of treaty)</span>\n"
+  },
+  {
+    "id": "89af71ab",
+    "type": "phonetic",
+    "word": "各",
+    "reading": "カク／ラク／ロ／リャク",
+    "meaning": "sound mark · unreliable",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "unreliable"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "連絡",
+    "onyomi": [
+      "カク",
+      "ラク",
+      "ロ",
+      "リャク"
+    ],
+    "reliability": "unreliable",
+    "family": [
+      {
+        "kanji": "格"
+      },
+      {
+        "kanji": "閣"
+      },
+      {
+        "kanji": "落"
+      },
+      {
+        "kanji": "絡"
+      },
+      {
+        "kanji": "路"
+      },
+      {
+        "kanji": "略"
+      }
+    ],
+    "rogues": [],
+    "spread": [
+      {
+        "reading": "カク",
+        "members": [
+          "格",
+          "閣"
+        ]
+      },
+      {
+        "reading": "ラク",
+        "members": [
+          "落",
+          "絡"
+        ]
+      },
+      {
+        "reading": "ロ",
+        "members": [
+          "路"
+        ]
+      },
+      {
+        "reading": "リャク",
+        "members": [
+          "略"
+        ]
+      }
+    ],
+    "example": {
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "contact"
+    },
+    "explanation": "## 各 — カク／ラク／ロ／リャク  🔴\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: カク／ラク／ロ／リャク\n- **Reliability**: 🔴 Unreliable — scatters; learn each per word\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 各**: the radical gives the *meaning*, while **各** carries the **カク／ラク／ロ／リャク** sound. Strip the radical off an unknown kanji, spot **各**, and you can usually read it.\n\n**Don't predict** from 各 — it scatters; learn each member's reading per word.\n\n### Family — reading → members\n| Reading | Members |\n|---|---|\n| カク | 格・閣 |\n| ラク | 落・絡 |\n| ロ | 路 |\n| リャク | 略 |\n\n### Example\n連絡 (れんらく) — <span lang=\"en\">contact</span>\n"
+  },
+  {
+    "id": "93a45e43",
+    "type": "phonetic",
+    "word": "半",
+    "reading": "ハン",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "判断",
+    "onyomi": [
+      "ハン"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "伴",
+        "gloss": "accompany"
+      },
+      {
+        "kanji": "判",
+        "gloss": "judge"
+      },
+      {
+        "kanji": "畔",
+        "gloss": "shore"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "judgment"
+    },
+    "explanation": "## 半 — ハン  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ハン\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 半**: the radical gives the *meaning*, while **半** carries the **ハン** sound. Strip the radical off an unknown kanji, spot **半**, and you can usually read it.\n\nTrust it — every member below reads **ハン** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 伴 | <span lang=\"en\">accompany</span> |\n| 判 | <span lang=\"en\">judge</span> |\n| 畔 | <span lang=\"en\">shore</span> |\n\n### Example\n判断 (はんだん) — <span lang=\"en\">judgment</span>\n"
+  },
+  {
+    "id": "93c39b00",
+    "type": "phonetic",
+    "word": "白",
+    "reading": "ハク",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "迫力",
+    "onyomi": [
+      "ハク"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "泊",
+        "gloss": "lodge"
+      },
+      {
+        "kanji": "拍",
+        "gloss": "beat"
+      },
+      {
+        "kanji": "迫",
+        "gloss": "press"
+      },
+      {
+        "kanji": "伯",
+        "gloss": "uncle"
+      },
+      {
+        "kanji": "舶",
+        "gloss": "ship"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "迫力",
+      "reading": "はくりょく",
+      "meaning": "force/impact"
+    },
+    "explanation": "## 白 — ハク  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ハク\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 白**: the radical gives the *meaning*, while **白** carries the **ハク** sound. Strip the radical off an unknown kanji, spot **白**, and you can usually read it.\n\nTrust it — every member below reads **ハク** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 泊 | <span lang=\"en\">lodge</span> |\n| 拍 | <span lang=\"en\">beat</span> |\n| 迫 | <span lang=\"en\">press</span> |\n| 伯 | <span lang=\"en\">uncle</span> |\n| 舶 | <span lang=\"en\">ship</span> |\n\n### Example\n迫力 (はくりょく) — <span lang=\"en\">force/impact</span>\n"
+  },
+  {
+    "id": "9900831c",
+    "type": "phonetic",
+    "word": "辰",
+    "reading": "シン",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "地震",
+    "onyomi": [
+      "シン"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "振",
+        "gloss": "shake"
+      },
+      {
+        "kanji": "震",
+        "gloss": "quake"
+      },
+      {
+        "kanji": "娠",
+        "gloss": "pregnant"
+      },
+      {
+        "kanji": "唇",
+        "gloss": "lips"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "地震",
+      "reading": "じしん",
+      "meaning": "earthquake"
+    },
+    "explanation": "## 辰 — シン  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: シン\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 辰**: the radical gives the *meaning*, while **辰** carries the **シン** sound. Strip the radical off an unknown kanji, spot **辰**, and you can usually read it.\n\nTrust it — every member below reads **シン** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 振 | <span lang=\"en\">shake</span> |\n| 震 | <span lang=\"en\">quake</span> |\n| 娠 | <span lang=\"en\">pregnant</span> |\n| 唇 | <span lang=\"en\">lips</span> |\n\n### Example\n地震 (じしん) — <span lang=\"en\">earthquake</span>\n"
+  },
+  {
+    "id": "9ee8404d",
+    "type": "phonetic",
+    "word": "啇",
+    "reading": "テキ",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "strong-rogue",
+      "look-alike"
+    ],
+    "lookAlike": true,
+    "note": "",
+    "lookup": "指摘",
+    "onyomi": [
+      "テキ"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "適"
+      },
+      {
+        "kanji": "敵"
+      },
+      {
+        "kanji": "摘"
+      },
+      {
+        "kanji": "滴"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "嫡",
+        "reading": "チャク"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "指摘",
+      "reading": "してき",
+      "meaning": "pointing out"
+    },
+    "explanation": "## 啇 — テキ  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: テキ\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 啇**: the radical gives the *meaning*, while **啇** carries the **テキ** sound. Strip the radical off an unknown kanji, spot **啇**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n適・敵・摘・滴\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 嫡 | **チャク** |\n\n### Example\n指摘 (してき) — <span lang=\"en\">pointing out</span>\n"
+  },
+  {
+    "id": "9f254051",
+    "type": "phonetic",
+    "word": "同",
+    "reading": "ドウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "銅メダル",
+    "onyomi": [
+      "ドウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "銅",
+        "gloss": "copper"
+      },
+      {
+        "kanji": "洞",
+        "gloss": "cave"
+      },
+      {
+        "kanji": "胴",
+        "gloss": "torso"
+      },
+      {
+        "kanji": "桐",
+        "gloss": "paulownia"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "銅メダル",
+      "reading": "どうメダル",
+      "meaning": "bronze medal"
+    },
+    "explanation": "## 同 — ドウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ドウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 同**: the radical gives the *meaning*, while **同** carries the **ドウ** sound. Strip the radical off an unknown kanji, spot **同**, and you can usually read it.\n\nTrust it — every member below reads **ドウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 銅 | <span lang=\"en\">copper</span> |\n| 洞 | <span lang=\"en\">cave</span> |\n| 胴 | <span lang=\"en\">torso</span> |\n| 桐 | <span lang=\"en\">paulownia</span> |\n\n### Example\n銅メダル (どうメダル) — <span lang=\"en\">bronze medal</span>\n"
+  },
+  {
+    "id": "9f779a52",
+    "type": "phonetic",
+    "word": "莫",
+    "reading": "ボ／バク／マク",
+    "meaning": "sound mark · cluster",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "cluster"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "規模",
+    "onyomi": [
+      "ボ",
+      "バク",
+      "マク"
+    ],
+    "reliability": "cluster",
+    "family": [
+      {
+        "kanji": "墓"
+      },
+      {
+        "kanji": "暮"
+      },
+      {
+        "kanji": "慕"
+      },
+      {
+        "kanji": "募"
+      },
+      {
+        "kanji": "漠"
+      },
+      {
+        "kanji": "幕"
+      },
+      {
+        "kanji": "膜"
+      },
+      {
+        "kanji": "模"
+      }
+    ],
+    "rogues": [],
+    "spread": [
+      {
+        "reading": "ボ",
+        "members": [
+          "墓",
+          "暮",
+          "慕",
+          "募"
+        ]
+      },
+      {
+        "reading": "バク",
+        "members": [
+          "漠"
+        ]
+      },
+      {
+        "reading": "マク",
+        "members": [
+          "幕",
+          "膜"
+        ]
+      },
+      {
+        "reading": "モ／ボ",
+        "members": [
+          "模"
+        ]
+      }
+    ],
+    "example": {
+      "word": "規模",
+      "reading": "きぼ",
+      "meaning": "scale"
+    },
+    "explanation": "## 莫 — ボ／バク／マク  🔵\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ボ／バク／マク\n- **Reliability**: 🔵 Cluster — a small, predictable set of readings\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 莫**: the radical gives the *meaning*, while **莫** carries the **ボ／バク／マク** sound. Strip the radical off an unknown kanji, spot **莫**, and you can usually read it.\n\nSpreads over a small set of readings (table below); the radical tells you which member you're looking at.\n\n### Family — reading → members\n| Reading | Members |\n|---|---|\n| ボ | 墓・暮・慕・募 |\n| バク | 漠 |\n| マク | 幕・膜 |\n| モ／ボ | 模 |\n\n### Example\n規模 (きぼ) — <span lang=\"en\">scale</span>\n"
+  },
+  {
+    "id": "a47036e8",
+    "type": "radical",
+    "word": "口",
+    "reading": "くちへん",
+    "meaning": "mouth / sound",
+    "level": "N4",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "口",
+    "base": "口",
+    "name": "くちへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "味",
+        "kana": "あじ",
+        "gloss": "taste"
+      },
+      {
+        "kanji": "呼ぶ",
+        "kana": "よぶ",
+        "gloss": "call"
+      },
+      {
+        "kanji": "吸う",
+        "kana": "すう",
+        "gloss": "inhale"
+      },
+      {
+        "kanji": "鳴く",
+        "kana": "なく",
+        "gloss": "chirp"
+      }
+    ],
+    "explanation": "## 口 — くちへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">mouth / sound</span>\n- **Standalone form**: 口\n- **JLPT**: N4\n\n### Words that use 口\n| Word | Reading | Meaning |\n|---|---|---|\n| 味 | あじ | <span lang=\"en\">taste</span> |\n| 呼ぶ | よぶ | <span lang=\"en\">call</span> |\n| 吸う | すう | <span lang=\"en\">inhale</span> |\n| 鳴く | なく | <span lang=\"en\">chirp</span> |\n"
+  },
+  {
+    "id": "a6551d90",
+    "type": "phonetic",
+    "word": "兪",
+    "reading": "ユ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "輸出",
+    "onyomi": [
+      "ユ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "輸",
+        "gloss": "transport"
+      },
+      {
+        "kanji": "愉",
+        "gloss": "pleasant"
+      },
+      {
+        "kanji": "癒",
+        "gloss": "heal"
+      },
+      {
+        "kanji": "諭",
+        "gloss": "admonish"
+      },
+      {
+        "kanji": "喩",
+        "gloss": "metaphor"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "輸出",
+      "reading": "ゆしゅつ",
+      "meaning": "export"
+    },
+    "explanation": "## 兪 — ユ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ユ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 兪**: the radical gives the *meaning*, while **兪** carries the **ユ** sound. Strip the radical off an unknown kanji, spot **兪**, and you can usually read it.\n\nTrust it — every member below reads **ユ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 輸 | <span lang=\"en\">transport</span> |\n| 愉 | <span lang=\"en\">pleasant</span> |\n| 癒 | <span lang=\"en\">heal</span> |\n| 諭 | <span lang=\"en\">admonish</span> |\n| 喩 | <span lang=\"en\">metaphor</span> |\n\n### Example\n輸出 (ゆしゅつ) — <span lang=\"en\">export</span>\n"
+  },
+  {
+    "id": "a986801a",
+    "type": "radical",
+    "word": "囗",
+    "reading": "くにがまえ",
+    "meaning": "enclosure / boundary",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "kamae",
+      "look-alike"
+    ],
+    "lookAlike": true,
+    "note": "Bigger box than 口 (mouth)",
+    "lookup": "囗",
+    "base": "囗",
+    "name": "くにがまえ",
+    "position": {
+      "name": "kamae",
+      "side": "enclosure",
+      "raw": "kamae (enclosure)"
+    },
+    "examples": [
+      {
+        "kanji": "国",
+        "kana": "くに",
+        "gloss": "country"
+      },
+      {
+        "kanji": "園",
+        "kana": "えん",
+        "gloss": "garden"
+      },
+      {
+        "kanji": "図",
+        "kana": "ず",
+        "gloss": "diagram"
+      },
+      {
+        "kanji": "困る",
+        "kana": "こまる",
+        "gloss": "be troubled"
+      }
+    ],
+    "explanation": "## 囗 — くにがまえ\n\n- **Type**: 部首 radical · kamae (enclosure)\n- **Meaning**: <span lang=\"en\">enclosure / boundary</span>\n- **Standalone form**: 囗\n- **JLPT**: N5\n\n### Words that use 囗\n| Word | Reading | Meaning |\n|---|---|---|\n| 国 | くに | <span lang=\"en\">country</span> |\n| 園 | えん | <span lang=\"en\">garden</span> |\n| 図 | ず | <span lang=\"en\">diagram</span> |\n| 困る | こまる | <span lang=\"en\">be troubled</span> |\n\n### ⚠️ Look-alike\nBigger box than 口 (mouth)\n"
+  },
+  {
+    "id": "ac607b91",
+    "type": "radical",
+    "word": "糸",
+    "reading": "いとへん",
+    "meaning": "thread / connection",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "糸",
+    "base": "糸",
+    "name": "いとへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "紙",
+        "kana": "かみ",
+        "gloss": "paper"
+      },
+      {
+        "kanji": "細い",
+        "kana": "ほそい",
+        "gloss": "thin"
+      },
+      {
+        "kanji": "終わる",
+        "kana": "おわる",
+        "gloss": "end"
+      },
+      {
+        "kanji": "続く",
+        "kana": "つづく",
+        "gloss": "continue"
+      }
+    ],
+    "explanation": "## 糸 — いとへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">thread / connection</span>\n- **Standalone form**: 糸\n- **JLPT**: N5\n\n### Words that use 糸\n| Word | Reading | Meaning |\n|---|---|---|\n| 紙 | かみ | <span lang=\"en\">paper</span> |\n| 細い | ほそい | <span lang=\"en\">thin</span> |\n| 終わる | おわる | <span lang=\"en\">end</span> |\n| 続く | つづく | <span lang=\"en\">continue</span> |\n"
+  },
+  {
+    "id": "af4682c0",
+    "type": "phonetic",
+    "word": "票",
+    "reading": "ヒョウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "目標",
+    "onyomi": [
+      "ヒョウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "標",
+        "gloss": "mark"
+      },
+      {
+        "kanji": "漂",
+        "gloss": "drift"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "目標",
+      "reading": "もくひょう",
+      "meaning": "goal"
+    },
+    "explanation": "## 票 — ヒョウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ヒョウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 票**: the radical gives the *meaning*, while **票** carries the **ヒョウ** sound. Strip the radical off an unknown kanji, spot **票**, and you can usually read it.\n\nTrust it — every member below reads **ヒョウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 標 | <span lang=\"en\">mark</span> |\n| 漂 | <span lang=\"en\">drift</span> |\n\n### Example\n目標 (もくひょう) — <span lang=\"en\">goal</span>\n"
+  },
+  {
+    "id": "afc2c42e",
+    "type": "phonetic",
+    "word": "畐",
+    "reading": "フク",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "strong-rogue",
+      "look-alike"
+    ],
+    "lookAlike": true,
+    "note": "",
+    "lookup": "幸福",
+    "onyomi": [
+      "フク"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "福"
+      },
+      {
+        "kanji": "副"
+      },
+      {
+        "kanji": "幅"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "富",
+        "reading": "フ"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning": "happiness"
+    },
+    "explanation": "## 畐 — フク  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: フク\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 畐**: the radical gives the *meaning*, while **畐** carries the **フク** sound. Strip the radical off an unknown kanji, spot **畐**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n福・副・幅\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 富 | **フ** |\n\n### Example\n幸福 (こうふく) — <span lang=\"en\">happiness</span>\n"
+  },
+  {
+    "id": "b065198e",
+    "type": "phonetic",
+    "word": "青",
+    "reading": "セイ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "清潔",
+    "onyomi": [
+      "セイ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "晴",
+        "gloss": "clear"
+      },
+      {
+        "kanji": "清",
+        "gloss": "clean"
+      },
+      {
+        "kanji": "精",
+        "gloss": "refined"
+      },
+      {
+        "kanji": "請",
+        "gloss": "request"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "清潔",
+      "reading": "せいけつ",
+      "meaning": "clean"
+    },
+    "explanation": "## 青 — セイ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: セイ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 青**: the radical gives the *meaning*, while **青** carries the **セイ** sound. Strip the radical off an unknown kanji, spot **青**, and you can usually read it.\n\nTrust it — every member below reads **セイ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 晴 | <span lang=\"en\">clear</span> |\n| 清 | <span lang=\"en\">clean</span> |\n| 精 | <span lang=\"en\">refined</span> |\n| 請 | <span lang=\"en\">request</span> |\n\n### Example\n清潔 (せいけつ) — <span lang=\"en\">clean</span>\n"
+  },
+  {
+    "id": "b08e7662",
+    "type": "radical",
+    "word": "月",
+    "reading": "にくづき",
+    "meaning": "flesh / body part",
+    "level": "N3",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "肉",
+    "base": "肉",
+    "name": "にくづき",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "肝臓",
+        "kana": "かんぞう",
+        "gloss": "liver"
+      },
+      {
+        "kanji": "肺",
+        "kana": "はい",
+        "gloss": "lung"
+      },
+      {
+        "kanji": "腕",
+        "kana": "うで",
+        "gloss": "arm"
+      },
+      {
+        "kanji": "脳",
+        "kana": "のう",
+        "gloss": "brain"
+      }
+    ],
+    "explanation": "## 月 — にくづき\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">flesh / body part</span>\n- **Standalone form**: 肉\n- **JLPT**: N3\n\n### Words that use 月\n| Word | Reading | Meaning |\n|---|---|---|\n| 肝臓 | かんぞう | <span lang=\"en\">liver</span> |\n| 肺 | はい | <span lang=\"en\">lung</span> |\n| 腕 | うで | <span lang=\"en\">arm</span> |\n| 脳 | のう | <span lang=\"en\">brain</span> |\n"
+  },
+  {
+    "id": "b27415bb",
+    "type": "radical",
+    "word": "刂",
+    "reading": "りっとう",
+    "meaning": "blade / cut",
+    "level": "N3",
+    "tags": [
+      "radical",
+      "tsukuri"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "刀",
+    "base": "刀",
+    "name": "りっとう",
+    "position": {
+      "name": "tsukuri",
+      "side": "right",
+      "raw": "tsukuri (right)"
+    },
+    "examples": [
+      {
+        "kanji": "利益",
+        "kana": "りえき",
+        "gloss": "profit"
+      },
+      {
+        "kanji": "別れる",
+        "kana": "わかれる",
+        "gloss": "part"
+      },
+      {
+        "kanji": "刻む",
+        "kana": "きざむ",
+        "gloss": "carve"
+      },
+      {
+        "kanji": "判断",
+        "kana": "はんだん",
+        "gloss": "judgment"
+      }
+    ],
+    "explanation": "## 刂 — りっとう\n\n- **Type**: 部首 radical · tsukuri (right)\n- **Meaning**: <span lang=\"en\">blade / cut</span>\n- **Standalone form**: 刀\n- **JLPT**: N3\n\n### Words that use 刂\n| Word | Reading | Meaning |\n|---|---|---|\n| 利益 | りえき | <span lang=\"en\">profit</span> |\n| 別れる | わかれる | <span lang=\"en\">part</span> |\n| 刻む | きざむ | <span lang=\"en\">carve</span> |\n| 判断 | はんだん | <span lang=\"en\">judgment</span> |\n"
+  },
+  {
+    "id": "b2cc234b",
+    "type": "radical",
+    "word": "頁",
+    "reading": "おおがい",
+    "meaning": "head / face",
+    "level": "N4",
+    "tags": [
+      "radical",
+      "tsukuri"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "頁",
+    "base": "頁",
+    "name": "おおがい",
+    "position": {
+      "name": "tsukuri",
+      "side": "right",
+      "raw": "tsukuri (right)"
+    },
+    "examples": [
+      {
+        "kanji": "顔",
+        "kana": "かお",
+        "gloss": "face"
+      },
+      {
+        "kanji": "頭",
+        "kana": "あたま",
+        "gloss": "head"
+      },
+      {
+        "kanji": "願う",
+        "kana": "ねがう",
+        "gloss": "wish"
+      },
+      {
+        "kanji": "順番",
+        "kana": "じゅんばん",
+        "gloss": "order"
+      }
+    ],
+    "explanation": "## 頁 — おおがい\n\n- **Type**: 部首 radical · tsukuri (right)\n- **Meaning**: <span lang=\"en\">head / face</span>\n- **Standalone form**: 頁\n- **JLPT**: N4\n\n### Words that use 頁\n| Word | Reading | Meaning |\n|---|---|---|\n| 顔 | かお | <span lang=\"en\">face</span> |\n| 頭 | あたま | <span lang=\"en\">head</span> |\n| 願う | ねがう | <span lang=\"en\">wish</span> |\n| 順番 | じゅんばん | <span lang=\"en\">order</span> |\n"
+  },
+  {
+    "id": "b2dadbb7",
+    "type": "phonetic",
+    "word": "反",
+    "reading": "ハン",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "販売",
+    "onyomi": [
+      "ハン"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "板",
+        "gloss": "board"
+      },
+      {
+        "kanji": "版",
+        "gloss": "edition"
+      },
+      {
+        "kanji": "販",
+        "gloss": "sell"
+      },
+      {
+        "kanji": "飯",
+        "gloss": "meal"
+      },
+      {
+        "kanji": "坂",
+        "gloss": "slope"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "販売",
+      "reading": "はんばい",
+      "meaning": "sales"
+    },
+    "explanation": "## 反 — ハン  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ハン\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 反**: the radical gives the *meaning*, while **反** carries the **ハン** sound. Strip the radical off an unknown kanji, spot **反**, and you can usually read it.\n\nTrust it — every member below reads **ハン** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 板 | <span lang=\"en\">board</span> |\n| 版 | <span lang=\"en\">edition</span> |\n| 販 | <span lang=\"en\">sell</span> |\n| 飯 | <span lang=\"en\">meal</span> |\n| 坂 | <span lang=\"en\">slope</span> |\n\n### Example\n販売 (はんばい) — <span lang=\"en\">sales</span>\n"
+  },
+  {
+    "id": "b44fa1c4",
+    "type": "phonetic",
+    "word": "官",
+    "reading": "カン",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "水道管",
+    "onyomi": [
+      "カン"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "管",
+        "gloss": "pipe"
+      },
+      {
+        "kanji": "館",
+        "gloss": "hall"
+      },
+      {
+        "kanji": "棺",
+        "gloss": "coffin"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "水道管",
+      "reading": "すいどうかん",
+      "meaning": "water pipe"
+    },
+    "explanation": "## 官 — カン  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: カン\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 官**: the radical gives the *meaning*, while **官** carries the **カン** sound. Strip the radical off an unknown kanji, spot **官**, and you can usually read it.\n\nTrust it — every member below reads **カン** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 管 | <span lang=\"en\">pipe</span> |\n| 館 | <span lang=\"en\">hall</span> |\n| 棺 | <span lang=\"en\">coffin</span> |\n\n### Example\n水道管 (すいどうかん) — <span lang=\"en\">water pipe</span>\n"
+  },
+  {
+    "id": "b5b1c363",
+    "type": "phonetic",
+    "word": "羊",
+    "reading": "ヨウ",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "栄養",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "洋"
+      },
+      {
+        "kanji": "様"
+      },
+      {
+        "kanji": "養"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "詳",
+        "reading": "ショウ"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "栄養",
+      "reading": "えいよう",
+      "meaning": "nutrition"
+    },
+    "explanation": "## 羊 — ヨウ  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ヨウ\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 羊**: the radical gives the *meaning*, while **羊** carries the **ヨウ** sound. Strip the radical off an unknown kanji, spot **羊**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n洋・様・養\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 詳 | **ショウ** |\n\n### Example\n栄養 (えいよう) — <span lang=\"en\">nutrition</span>\n"
+  },
+  {
+    "id": "b6a4ca9b",
+    "type": "radical",
+    "word": "广",
+    "reading": "まだれ",
+    "meaning": "building / shelter",
+    "level": "N4",
+    "tags": [
+      "radical",
+      "tare"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "广",
+    "base": "广",
+    "name": "まだれ",
+    "position": {
+      "name": "tare",
+      "side": "drape",
+      "raw": "tare (drape)"
+    },
+    "examples": [
+      {
+        "kanji": "店",
+        "kana": "みせ",
+        "gloss": "shop"
+      },
+      {
+        "kanji": "庭",
+        "kana": "にわ",
+        "gloss": "garden"
+      },
+      {
+        "kanji": "度",
+        "kana": "ど",
+        "gloss": "degree"
+      },
+      {
+        "kanji": "座る",
+        "kana": "すわる",
+        "gloss": "sit"
+      }
+    ],
+    "explanation": "## 广 — まだれ\n\n- **Type**: 部首 radical · tare (drape)\n- **Meaning**: <span lang=\"en\">building / shelter</span>\n- **Standalone form**: 广\n- **JLPT**: N4\n\n### Words that use 广\n| Word | Reading | Meaning |\n|---|---|---|\n| 店 | みせ | <span lang=\"en\">shop</span> |\n| 庭 | にわ | <span lang=\"en\">garden</span> |\n| 度 | ど | <span lang=\"en\">degree</span> |\n| 座る | すわる | <span lang=\"en\">sit</span> |\n"
+  },
+  {
+    "id": "bcf1e4f8",
+    "type": "phonetic",
+    "word": "高",
+    "reading": "コウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N1",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "原稿",
+    "onyomi": [
+      "コウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "稿",
+        "gloss": "manuscript"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "原稿",
+      "reading": "げんこう",
+      "meaning": "manuscript"
+    },
+    "explanation": "## 高 — コウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: コウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N1\n\n### How it works\nEach member is a **radical + 高**: the radical gives the *meaning*, while **高** carries the **コウ** sound. Strip the radical off an unknown kanji, spot **高**, and you can usually read it.\n\nTrust it — every member below reads **コウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 稿 | <span lang=\"en\">manuscript</span> |\n\n### Example\n原稿 (げんこう) — <span lang=\"en\">manuscript</span>\n"
+  },
+  {
+    "id": "bde0876d",
+    "type": "phonetic",
+    "word": "召",
+    "reading": "ショウ",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "紹介",
+    "onyomi": [
+      "ショウ"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "招"
+      },
+      {
+        "kanji": "昭"
+      },
+      {
+        "kanji": "紹"
+      },
+      {
+        "kanji": "沼"
+      },
+      {
+        "kanji": "照"
+      },
+      {
+        "kanji": "詔"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "超",
+        "reading": "チョウ"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "紹介",
+      "reading": "しょうかい",
+      "meaning": "introduction"
+    },
+    "explanation": "## 召 — ショウ  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ショウ\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 召**: the radical gives the *meaning*, while **召** carries the **ショウ** sound. Strip the radical off an unknown kanji, spot **召**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n招・昭・紹・沼・照・詔\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 超 | **チョウ** |\n\n### Example\n紹介 (しょうかい) — <span lang=\"en\">introduction</span>\n"
+  },
+  {
+    "id": "c0dad319",
+    "type": "radical",
+    "word": "日",
+    "reading": "ひへん",
+    "meaning": "sun / day / time",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "日",
+    "base": "日",
+    "name": "ひへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "時間",
+        "kana": "じかん",
+        "gloss": "time"
+      },
+      {
+        "kanji": "晴れ",
+        "kana": "はれ",
+        "gloss": "clear sky"
+      },
+      {
+        "kanji": "暗い",
+        "kana": "くらい",
+        "gloss": "dark"
+      },
+      {
+        "kanji": "明るい",
+        "kana": "あかるい",
+        "gloss": "bright"
+      }
+    ],
+    "explanation": "## 日 — ひへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">sun / day / time</span>\n- **Standalone form**: 日\n- **JLPT**: N5\n\n### Words that use 日\n| Word | Reading | Meaning |\n|---|---|---|\n| 時間 | じかん | <span lang=\"en\">time</span> |\n| 晴れ | はれ | <span lang=\"en\">clear sky</span> |\n| 暗い | くらい | <span lang=\"en\">dark</span> |\n| 明るい | あかるい | <span lang=\"en\">bright</span> |\n"
+  },
+  {
+    "id": "c4423a3c",
+    "type": "phonetic",
+    "word": "廷",
+    "reading": "テイ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "家庭",
+    "onyomi": [
+      "テイ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "庭",
+        "gloss": "garden"
+      },
+      {
+        "kanji": "艇",
+        "gloss": "boat"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "家庭",
+      "reading": "かてい",
+      "meaning": "household"
+    },
+    "explanation": "## 廷 — テイ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: テイ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 廷**: the radical gives the *meaning*, while **廷** carries the **テイ** sound. Strip the radical off an unknown kanji, spot **廷**, and you can usually read it.\n\nTrust it — every member below reads **テイ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 庭 | <span lang=\"en\">garden</span> |\n| 艇 | <span lang=\"en\">boat</span> |\n\n### Example\n家庭 (かてい) — <span lang=\"en\">household</span>\n"
+  },
+  {
+    "id": "cb358ba3",
+    "type": "phonetic",
+    "word": "主",
+    "reading": "シュ／チュウ／ジュウ",
+    "meaning": "sound mark · cluster",
+    "level": "N4",
+    "tags": [
+      "phonetic",
+      "cluster"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "注意",
+    "onyomi": [
+      "シュ",
+      "チュウ",
+      "ジュウ"
+    ],
+    "reliability": "cluster",
+    "family": [
+      {
+        "kanji": "注"
+      },
+      {
+        "kanji": "柱"
+      },
+      {
+        "kanji": "駐"
+      },
+      {
+        "kanji": "住"
+      }
+    ],
+    "rogues": [],
+    "spread": [
+      {
+        "reading": "シュ",
+        "members": [
+          "主"
+        ]
+      },
+      {
+        "reading": "チュウ",
+        "members": [
+          "注",
+          "柱",
+          "駐"
+        ]
+      },
+      {
+        "reading": "ジュウ",
+        "members": [
+          "住"
+        ]
+      }
+    ],
+    "example": {
+      "word": "注意",
+      "reading": "ちゅうい",
+      "meaning": "caution"
+    },
+    "explanation": "## 主 — シュ／チュウ／ジュウ  🔵\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: シュ／チュウ／ジュウ\n- **Reliability**: 🔵 Cluster — a small, predictable set of readings\n- **JLPT**: N4\n\n### How it works\nEach member is a **radical + 主**: the radical gives the *meaning*, while **主** carries the **シュ／チュウ／ジュウ** sound. Strip the radical off an unknown kanji, spot **主**, and you can usually read it.\n\nSpreads over a small set of readings (table below); the radical tells you which member you're looking at.\n\n### Family — reading → members\n| Reading | Members |\n|---|---|\n| シュ | 主 |\n| チュウ | 注・柱・駐 |\n| ジュウ | 住 |\n\n### Example\n注意 (ちゅうい) — <span lang=\"en\">caution</span>\n"
+  },
+  {
+    "id": "d1c4899d",
+    "type": "phonetic",
+    "word": "方",
+    "reading": "ホウ／ボウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "予防",
+    "onyomi": [
+      "ホウ",
+      "ボウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "放",
+        "gloss": "release"
+      },
+      {
+        "kanji": "訪",
+        "gloss": "visit"
+      },
+      {
+        "kanji": "芳",
+        "gloss": "fragrant"
+      },
+      {
+        "kanji": "防",
+        "gloss": "defend"
+      },
+      {
+        "kanji": "房",
+        "gloss": "tassel"
+      },
+      {
+        "kanji": "妨",
+        "gloss": "hinder"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "予防",
+      "reading": "よぼう",
+      "meaning": "prevention"
+    },
+    "explanation": "## 方 — ホウ／ボウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ホウ／ボウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 方**: the radical gives the *meaning*, while **方** carries the **ホウ／ボウ** sound. Strip the radical off an unknown kanji, spot **方**, and you can usually read it.\n\nTrust it — every member below reads **ホウ／ボウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 放 | <span lang=\"en\">release</span> |\n| 訪 | <span lang=\"en\">visit</span> |\n| 芳 | <span lang=\"en\">fragrant</span> |\n| 防 | <span lang=\"en\">defend</span> |\n| 房 | <span lang=\"en\">tassel</span> |\n| 妨 | <span lang=\"en\">hinder</span> |\n\n### Example\n予防 (よぼう) — <span lang=\"en\">prevention</span>\n"
+  },
+  {
+    "id": "d1f44b43",
+    "type": "radical",
+    "word": "言",
+    "reading": "ごんべん",
+    "meaning": "speech / words",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "言",
+    "base": "言",
+    "name": "ごんべん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "話す",
+        "kana": "はなす",
+        "gloss": "speak"
+      },
+      {
+        "kanji": "読む",
+        "kana": "よむ",
+        "gloss": "read"
+      },
+      {
+        "kanji": "語る",
+        "kana": "かたる",
+        "gloss": "tell"
+      },
+      {
+        "kanji": "説明",
+        "kana": "せつめい",
+        "gloss": "explanation"
+      }
+    ],
+    "explanation": "## 言 — ごんべん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">speech / words</span>\n- **Standalone form**: 言\n- **JLPT**: N5\n\n### Words that use 言\n| Word | Reading | Meaning |\n|---|---|---|\n| 話す | はなす | <span lang=\"en\">speak</span> |\n| 読む | よむ | <span lang=\"en\">read</span> |\n| 語る | かたる | <span lang=\"en\">tell</span> |\n| 説明 | せつめい | <span lang=\"en\">explanation</span> |\n"
+  },
+  {
+    "id": "d3760e23",
+    "type": "radical",
+    "word": "礻",
+    "reading": "しめすへん",
+    "meaning": "divine / ritual",
+    "level": "N3",
+    "tags": [
+      "radical",
+      "hen",
+      "look-alike"
+    ],
+    "lookAlike": true,
+    "note": "One dot — don't confuse with 衤",
+    "lookup": "示",
+    "base": "示",
+    "name": "しめすへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "神社",
+        "kana": "じんじゃ",
+        "gloss": "shrine"
+      },
+      {
+        "kanji": "祝う",
+        "kana": "いわう",
+        "gloss": "celebrate"
+      },
+      {
+        "kanji": "礼",
+        "kana": "れい",
+        "gloss": "courtesy"
+      },
+      {
+        "kanji": "福",
+        "kana": "ふく",
+        "gloss": "fortune"
+      }
+    ],
+    "explanation": "## 礻 — しめすへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">divine / ritual</span>\n- **Standalone form**: 示\n- **JLPT**: N3\n\n### Words that use 礻\n| Word | Reading | Meaning |\n|---|---|---|\n| 神社 | じんじゃ | <span lang=\"en\">shrine</span> |\n| 祝う | いわう | <span lang=\"en\">celebrate</span> |\n| 礼 | れい | <span lang=\"en\">courtesy</span> |\n| 福 | ふく | <span lang=\"en\">fortune</span> |\n\n### ⚠️ Look-alike\nOne dot — don't confuse with 衤\n"
+  },
+  {
+    "id": "d6446baa",
+    "type": "phonetic",
+    "word": "原",
+    "reading": "ゲン",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "資源",
+    "onyomi": [
+      "ゲン"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "源"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "願",
+        "reading": "ガン"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "資源",
+      "reading": "しげん",
+      "meaning": "resources"
+    },
+    "explanation": "## 原 — ゲン  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ゲン\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 原**: the radical gives the *meaning*, while **原** carries the **ゲン** sound. Strip the radical off an unknown kanji, spot **原**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n源\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 願 | **ガン** |\n\n### Example\n資源 (しげん) — <span lang=\"en\">resources</span>\n"
+  },
+  {
+    "id": "d6fc71fb",
+    "type": "radical",
+    "word": "宀",
+    "reading": "うかんむり",
+    "meaning": "roof / house",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "kanmuri",
+      "look-alike"
+    ],
+    "lookAlike": true,
+    "note": "Has top dot — 冖 doesn't",
+    "lookup": "宀",
+    "base": "宀",
+    "name": "うかんむり",
+    "position": {
+      "name": "kanmuri",
+      "side": "top",
+      "raw": "kanmuri (top)"
+    },
+    "examples": [
+      {
+        "kanji": "家",
+        "kana": "いえ",
+        "gloss": "house"
+      },
+      {
+        "kanji": "安い",
+        "kana": "やすい",
+        "gloss": "cheap"
+      },
+      {
+        "kanji": "室",
+        "kana": "しつ",
+        "gloss": "room"
+      },
+      {
+        "kanji": "守る",
+        "kana": "まもる",
+        "gloss": "protect"
+      }
+    ],
+    "explanation": "## 宀 — うかんむり\n\n- **Type**: 部首 radical · kanmuri (top)\n- **Meaning**: <span lang=\"en\">roof / house</span>\n- **Standalone form**: 宀\n- **JLPT**: N5\n\n### Words that use 宀\n| Word | Reading | Meaning |\n|---|---|---|\n| 家 | いえ | <span lang=\"en\">house</span> |\n| 安い | やすい | <span lang=\"en\">cheap</span> |\n| 室 | しつ | <span lang=\"en\">room</span> |\n| 守る | まもる | <span lang=\"en\">protect</span> |\n\n### ⚠️ Look-alike\nHas top dot — 冖 doesn't\n"
+  },
+  {
+    "id": "dbf5d52c",
+    "type": "radical",
+    "word": "辶",
+    "reading": "しんにょう",
+    "meaning": "movement / road",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "nyou"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "辵",
+    "base": "辵",
+    "name": "しんにょう",
+    "position": {
+      "name": "nyou",
+      "side": "wrap",
+      "raw": "nyou (wrap)"
+    },
+    "examples": [
+      {
+        "kanji": "道",
+        "kana": "みち",
+        "gloss": "road"
+      },
+      {
+        "kanji": "通る",
+        "kana": "とおる",
+        "gloss": "pass"
+      },
+      {
+        "kanji": "近い",
+        "kana": "ちかい",
+        "gloss": "near"
+      },
+      {
+        "kanji": "送る",
+        "kana": "おくる",
+        "gloss": "send"
+      }
+    ],
+    "explanation": "## 辶 — しんにょう\n\n- **Type**: 部首 radical · nyou (wrap)\n- **Meaning**: <span lang=\"en\">movement / road</span>\n- **Standalone form**: 辵\n- **JLPT**: N5\n\n### Words that use 辶\n| Word | Reading | Meaning |\n|---|---|---|\n| 道 | みち | <span lang=\"en\">road</span> |\n| 通る | とおる | <span lang=\"en\">pass</span> |\n| 近い | ちかい | <span lang=\"en\">near</span> |\n| 送る | おくる | <span lang=\"en\">send</span> |\n"
+  },
+  {
+    "id": "dc18ad3e",
+    "type": "phonetic",
+    "word": "良",
+    "reading": "リョウ／ロウ",
+    "meaning": "sound mark · cluster",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "cluster"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "廊下",
+    "onyomi": [
+      "リョウ",
+      "ロウ"
+    ],
+    "reliability": "cluster",
+    "family": [
+      {
+        "kanji": "朗"
+      },
+      {
+        "kanji": "郎"
+      },
+      {
+        "kanji": "廊"
+      },
+      {
+        "kanji": "浪"
+      }
+    ],
+    "rogues": [],
+    "spread": [
+      {
+        "reading": "リョウ",
+        "members": [
+          "良"
+        ]
+      },
+      {
+        "reading": "ロウ",
+        "members": [
+          "朗",
+          "郎",
+          "廊",
+          "浪"
+        ]
+      }
+    ],
+    "example": {
+      "word": "廊下",
+      "reading": "ろうか",
+      "meaning": "corridor"
+    },
+    "explanation": "## 良 — リョウ／ロウ  🔵\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: リョウ／ロウ\n- **Reliability**: 🔵 Cluster — a small, predictable set of readings\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 良**: the radical gives the *meaning*, while **良** carries the **リョウ／ロウ** sound. Strip the radical off an unknown kanji, spot **良**, and you can usually read it.\n\nSpreads over a small set of readings (table below); the radical tells you which member you're looking at.\n\n### Family — reading → members\n| Reading | Members |\n|---|---|\n| リョウ | 良 |\n| ロウ | 朗・郎・廊・浪 |\n\n### Example\n廊下 (ろうか) — <span lang=\"en\">corridor</span>\n"
+  },
+  {
+    "id": "dfd05e32",
+    "type": "radical",
+    "word": "力",
+    "reading": "ちから",
+    "meaning": "power / strength",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "tsukuri"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "力",
+    "base": "力",
+    "name": "ちから",
+    "position": {
+      "name": "tsukuri",
+      "side": "right",
+      "raw": "tsukuri (right)"
+    },
+    "examples": [
+      {
+        "kanji": "力",
+        "kana": "ちから",
+        "gloss": "power"
+      },
+      {
+        "kanji": "助ける",
+        "kana": "たすける",
+        "gloss": "help"
+      },
+      {
+        "kanji": "努力",
+        "kana": "どりょく",
+        "gloss": "effort"
+      },
+      {
+        "kanji": "動く",
+        "kana": "うごく",
+        "gloss": "move"
+      }
+    ],
+    "explanation": "## 力 — ちから\n\n- **Type**: 部首 radical · tsukuri (right)\n- **Meaning**: <span lang=\"en\">power / strength</span>\n- **Standalone form**: 力\n- **JLPT**: N5\n\n### Words that use 力\n| Word | Reading | Meaning |\n|---|---|---|\n| 力 | ちから | <span lang=\"en\">power</span> |\n| 助ける | たすける | <span lang=\"en\">help</span> |\n| 努力 | どりょく | <span lang=\"en\">effort</span> |\n| 動く | うごく | <span lang=\"en\">move</span> |\n"
+  },
+  {
+    "id": "e1359606",
+    "type": "phonetic",
+    "word": "戔",
+    "reading": "セン／ザン／サン",
+    "meaning": "sound mark · cluster",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "cluster"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "残念",
+    "onyomi": [
+      "セン",
+      "ザン",
+      "サン"
+    ],
+    "reliability": "cluster",
+    "family": [
+      {
+        "kanji": "浅"
+      },
+      {
+        "kanji": "銭"
+      },
+      {
+        "kanji": "践"
+      },
+      {
+        "kanji": "賤"
+      },
+      {
+        "kanji": "残"
+      },
+      {
+        "kanji": "桟"
+      }
+    ],
+    "rogues": [],
+    "spread": [
+      {
+        "reading": "セン",
+        "members": [
+          "浅",
+          "銭",
+          "践",
+          "賤"
+        ]
+      },
+      {
+        "reading": "ザン",
+        "members": [
+          "残"
+        ]
+      },
+      {
+        "reading": "サン",
+        "members": [
+          "桟"
+        ]
+      }
+    ],
+    "example": {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "regrettable"
+    },
+    "explanation": "## 戔 — セン／ザン／サン  🔵\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: セン／ザン／サン\n- **Reliability**: 🔵 Cluster — a small, predictable set of readings\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 戔**: the radical gives the *meaning*, while **戔** carries the **セン／ザン／サン** sound. Strip the radical off an unknown kanji, spot **戔**, and you can usually read it.\n\nSpreads over a small set of readings (table below); the radical tells you which member you're looking at.\n\n### Family — reading → members\n| Reading | Members |\n|---|---|\n| セン | 浅・銭・践・賤 |\n| ザン | 残 |\n| サン | 桟 |\n\n### Example\n残念 (ざんねん) — <span lang=\"en\">regrettable</span>\n"
+  },
+  {
+    "id": "e19da8f1",
+    "type": "phonetic",
+    "word": "童",
+    "reading": "ドウ",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N1",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "瞳孔",
+    "onyomi": [
+      "ドウ"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "瞳"
+      },
+      {
+        "kanji": "憧"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "鐘",
+        "reading": "ショウ"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "瞳孔",
+      "reading": "どうこう",
+      "meaning": "pupil (eye)"
+    },
+    "explanation": "## 童 — ドウ  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ドウ\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N1\n\n### How it works\nEach member is a **radical + 童**: the radical gives the *meaning*, while **童** carries the **ドウ** sound. Strip the radical off an unknown kanji, spot **童**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n瞳・憧\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 鐘 | **ショウ** |\n\n### Example\n瞳孔 (どうこう) — <span lang=\"en\">pupil (eye)</span>\n"
+  },
+  {
+    "id": "e4f1b65e",
+    "type": "phonetic",
+    "word": "包",
+    "reading": "ホウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "細胞",
+    "onyomi": [
+      "ホウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "抱",
+        "gloss": "embrace"
+      },
+      {
+        "kanji": "砲",
+        "gloss": "cannon"
+      },
+      {
+        "kanji": "泡",
+        "gloss": "bubble"
+      },
+      {
+        "kanji": "胞",
+        "gloss": "cell"
+      },
+      {
+        "kanji": "飽",
+        "gloss": "satiate"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "細胞",
+      "reading": "さいぼう",
+      "meaning": "cell"
+    },
+    "explanation": "## 包 — ホウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ホウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 包**: the radical gives the *meaning*, while **包** carries the **ホウ** sound. Strip the radical off an unknown kanji, spot **包**, and you can usually read it.\n\nTrust it — every member below reads **ホウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 抱 | <span lang=\"en\">embrace</span> |\n| 砲 | <span lang=\"en\">cannon</span> |\n| 泡 | <span lang=\"en\">bubble</span> |\n| 胞 | <span lang=\"en\">cell</span> |\n| 飽 | <span lang=\"en\">satiate</span> |\n\n### Example\n細胞 (さいぼう) — <span lang=\"en\">cell</span>\n"
+  },
+  {
+    "id": "e71b872d",
+    "type": "phonetic",
+    "word": "曽",
+    "reading": "ソウ／ゾウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "増加",
+    "onyomi": [
+      "ソウ",
+      "ゾウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "僧",
+        "gloss": "monk"
+      },
+      {
+        "kanji": "層",
+        "gloss": "layer"
+      },
+      {
+        "kanji": "増",
+        "gloss": "increase"
+      },
+      {
+        "kanji": "憎",
+        "gloss": "hate"
+      },
+      {
+        "kanji": "贈",
+        "gloss": "gift"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaning": "increase"
+    },
+    "explanation": "## 曽 — ソウ／ゾウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ソウ／ゾウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 曽**: the radical gives the *meaning*, while **曽** carries the **ソウ／ゾウ** sound. Strip the radical off an unknown kanji, spot **曽**, and you can usually read it.\n\nTrust it — every member below reads **ソウ／ゾウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 僧 | <span lang=\"en\">monk</span> |\n| 層 | <span lang=\"en\">layer</span> |\n| 増 | <span lang=\"en\">increase</span> |\n| 憎 | <span lang=\"en\">hate</span> |\n| 贈 | <span lang=\"en\">gift</span> |\n\n### Example\n増加 (ぞうか) — <span lang=\"en\">increase</span>\n"
+  },
+  {
+    "id": "e8b9b7c1",
+    "type": "radical",
+    "word": "阝",
+    "reading": "こざとへん",
+    "meaning": "hill / mound",
+    "level": "N3",
+    "tags": [
+      "radical",
+      "hen"
+    ],
+    "lookAlike": false,
+    "note": "Left side only — right 阝 is おおざと",
+    "lookup": "阜",
+    "base": "阜",
+    "name": "こざとへん",
+    "position": {
+      "name": "hen",
+      "side": "left",
+      "raw": "hen (left)"
+    },
+    "examples": [
+      {
+        "kanji": "防ぐ",
+        "kana": "ふせぐ",
+        "gloss": "prevent"
+      },
+      {
+        "kanji": "限る",
+        "kana": "かぎる",
+        "gloss": "limit"
+      },
+      {
+        "kanji": "階段",
+        "kana": "かいだん",
+        "gloss": "stairs"
+      },
+      {
+        "kanji": "院",
+        "kana": "いん",
+        "gloss": "institution"
+      }
+    ],
+    "explanation": "## 阝 — こざとへん\n\n- **Type**: 部首 radical · hen (left)\n- **Meaning**: <span lang=\"en\">hill / mound</span>\n- **Standalone form**: 阜\n- **JLPT**: N3\n\n### Words that use 阝\n| Word | Reading | Meaning |\n|---|---|---|\n| 防ぐ | ふせぐ | <span lang=\"en\">prevent</span> |\n| 限る | かぎる | <span lang=\"en\">limit</span> |\n| 階段 | かいだん | <span lang=\"en\">stairs</span> |\n| 院 | いん | <span lang=\"en\">institution</span> |\n\n### Note\nLeft side only — right 阝 is おおざと\n"
+  },
+  {
+    "id": "eac517da",
+    "type": "phonetic",
+    "word": "复",
+    "reading": "フク",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid",
+      "look-alike"
+    ],
+    "lookAlike": true,
+    "note": "",
+    "lookup": "複雑",
+    "onyomi": [
+      "フク"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "復",
+        "gloss": "return"
+      },
+      {
+        "kanji": "複",
+        "gloss": "double"
+      },
+      {
+        "kanji": "腹",
+        "gloss": "belly"
+      },
+      {
+        "kanji": "覆",
+        "gloss": "cover"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "複雑",
+      "reading": "ふくざつ",
+      "meaning": "complex"
+    },
+    "explanation": "## 复 — フク  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: フク\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 复**: the radical gives the *meaning*, while **复** carries the **フク** sound. Strip the radical off an unknown kanji, spot **复**, and you can usually read it.\n\nTrust it — every member below reads **フク** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 復 | <span lang=\"en\">return</span> |\n| 複 | <span lang=\"en\">double</span> |\n| 腹 | <span lang=\"en\">belly</span> |\n| 覆 | <span lang=\"en\">cover</span> |\n\n### Example\n複雑 (ふくざつ) — <span lang=\"en\">complex</span>\n"
+  },
+  {
+    "id": "ebae756f",
+    "type": "phonetic",
+    "word": "雚",
+    "reading": "カン",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "観察",
+    "onyomi": [
+      "カン"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "観"
+      },
+      {
+        "kanji": "勧"
+      },
+      {
+        "kanji": "歓"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "権",
+        "reading": "ケン"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "観察",
+      "reading": "かんさつ",
+      "meaning": "observation"
+    },
+    "explanation": "## 雚 — カン  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: カン\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 雚**: the radical gives the *meaning*, while **雚** carries the **カン** sound. Strip the radical off an unknown kanji, spot **雚**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n観・勧・歓\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 権 | **ケン** |\n\n### Example\n観察 (かんさつ) — <span lang=\"en\">observation</span>\n"
+  },
+  {
+    "id": "ebb34993",
+    "type": "phonetic",
+    "word": "中",
+    "reading": "チュウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "忠実",
+    "onyomi": [
+      "チュウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "仲",
+        "gloss": "go-between"
+      },
+      {
+        "kanji": "忠",
+        "gloss": "loyal"
+      },
+      {
+        "kanji": "衷",
+        "gloss": "inner"
+      },
+      {
+        "kanji": "沖",
+        "gloss": "open sea"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "忠実",
+      "reading": "ちゅうじつ",
+      "meaning": "faithful"
+    },
+    "explanation": "## 中 — チュウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: チュウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 中**: the radical gives the *meaning*, while **中** carries the **チュウ** sound. Strip the radical off an unknown kanji, spot **中**, and you can usually read it.\n\nTrust it — every member below reads **チュウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 仲 | <span lang=\"en\">go-between</span> |\n| 忠 | <span lang=\"en\">loyal</span> |\n| 衷 | <span lang=\"en\">inner</span> |\n| 沖 | <span lang=\"en\">open sea</span> |\n\n### Example\n忠実 (ちゅうじつ) — <span lang=\"en\">faithful</span>\n"
+  },
+  {
+    "id": "f54127a3",
+    "type": "radical",
+    "word": "竹",
+    "reading": "たけかんむり",
+    "meaning": "bamboo",
+    "level": "N4",
+    "tags": [
+      "radical",
+      "kanmuri"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "竹",
+    "base": "竹",
+    "name": "たけかんむり",
+    "position": {
+      "name": "kanmuri",
+      "side": "top",
+      "raw": "kanmuri (top)"
+    },
+    "examples": [
+      {
+        "kanji": "笑う",
+        "kana": "わらう",
+        "gloss": "laugh"
+      },
+      {
+        "kanji": "答え",
+        "kana": "こたえ",
+        "gloss": "answer"
+      },
+      {
+        "kanji": "箱",
+        "kana": "はこ",
+        "gloss": "box"
+      },
+      {
+        "kanji": "算数",
+        "kana": "さんすう",
+        "gloss": "arithmetic"
+      }
+    ],
+    "explanation": "## 竹 — たけかんむり\n\n- **Type**: 部首 radical · kanmuri (top)\n- **Meaning**: <span lang=\"en\">bamboo</span>\n- **Standalone form**: 竹\n- **JLPT**: N4\n\n### Words that use 竹\n| Word | Reading | Meaning |\n|---|---|---|\n| 笑う | わらう | <span lang=\"en\">laugh</span> |\n| 答え | こたえ | <span lang=\"en\">answer</span> |\n| 箱 | はこ | <span lang=\"en\">box</span> |\n| 算数 | さんすう | <span lang=\"en\">arithmetic</span> |\n"
+  },
+  {
+    "id": "f55904aa",
+    "type": "radical",
+    "word": "疒",
+    "reading": "やまいだれ",
+    "meaning": "sickness",
+    "level": "N3",
+    "tags": [
+      "radical",
+      "tare"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "疒",
+    "base": "疒",
+    "name": "やまいだれ",
+    "position": {
+      "name": "tare",
+      "side": "drape",
+      "raw": "tare (drape)"
+    },
+    "examples": [
+      {
+        "kanji": "病気",
+        "kana": "びょうき",
+        "gloss": "illness"
+      },
+      {
+        "kanji": "痛い",
+        "kana": "いたい",
+        "gloss": "painful"
+      },
+      {
+        "kanji": "疲れる",
+        "kana": "つかれる",
+        "gloss": "tire"
+      },
+      {
+        "kanji": "症状",
+        "kana": "しょうじょう",
+        "gloss": "symptom"
+      }
+    ],
+    "explanation": "## 疒 — やまいだれ\n\n- **Type**: 部首 radical · tare (drape)\n- **Meaning**: <span lang=\"en\">sickness</span>\n- **Standalone form**: 疒\n- **JLPT**: N3\n\n### Words that use 疒\n| Word | Reading | Meaning |\n|---|---|---|\n| 病気 | びょうき | <span lang=\"en\">illness</span> |\n| 痛い | いたい | <span lang=\"en\">painful</span> |\n| 疲れる | つかれる | <span lang=\"en\">tire</span> |\n| 症状 | しょうじょう | <span lang=\"en\">symptom</span> |\n"
+  },
+  {
+    "id": "f59d4e5b",
+    "type": "phonetic",
+    "word": "工",
+    "reading": "コウ",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "成功",
+    "onyomi": [
+      "コウ"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "紅"
+      },
+      {
+        "kanji": "江"
+      },
+      {
+        "kanji": "攻"
+      },
+      {
+        "kanji": "功"
+      },
+      {
+        "kanji": "項"
+      },
+      {
+        "kanji": "貢"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "空",
+        "reading": "クウ"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "成功",
+      "reading": "せいこう",
+      "meaning": "success"
+    },
+    "explanation": "## 工 — コウ  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: コウ\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 工**: the radical gives the *meaning*, while **工** carries the **コウ** sound. Strip the radical off an unknown kanji, spot **工**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n紅・江・攻・功・項・貢\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 空 | **クウ** |\n\n### Example\n成功 (せいこう) — <span lang=\"en\">success</span>\n"
+  },
+  {
+    "id": "fc887d7e",
+    "type": "radical",
+    "word": "艹",
+    "reading": "くさかんむり",
+    "meaning": "grass / plant",
+    "level": "N5",
+    "tags": [
+      "radical",
+      "kanmuri"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "艸",
+    "base": "艸",
+    "name": "くさかんむり",
+    "position": {
+      "name": "kanmuri",
+      "side": "top",
+      "raw": "kanmuri (top)"
+    },
+    "examples": [
+      {
+        "kanji": "花",
+        "kana": "はな",
+        "gloss": "flower"
+      },
+      {
+        "kanji": "草",
+        "kana": "くさ",
+        "gloss": "grass"
+      },
+      {
+        "kanji": "茶",
+        "kana": "ちゃ",
+        "gloss": "tea"
+      },
+      {
+        "kanji": "薬",
+        "kana": "くすり",
+        "gloss": "medicine"
+      }
+    ],
+    "explanation": "## 艹 — くさかんむり\n\n- **Type**: 部首 radical · kanmuri (top)\n- **Meaning**: <span lang=\"en\">grass / plant</span>\n- **Standalone form**: 艸\n- **JLPT**: N5\n\n### Words that use 艹\n| Word | Reading | Meaning |\n|---|---|---|\n| 花 | はな | <span lang=\"en\">flower</span> |\n| 草 | くさ | <span lang=\"en\">grass</span> |\n| 茶 | ちゃ | <span lang=\"en\">tea</span> |\n| 薬 | くすり | <span lang=\"en\">medicine</span> |\n"
+  },
+  {
+    "id": "fd6b2401",
+    "type": "phonetic",
+    "word": "完",
+    "reading": "カン",
+    "meaning": "sound mark · strong-rogue",
+    "level": "N1",
+    "tags": [
+      "phonetic",
+      "strong-rogue"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "冠婚葬祭",
+    "onyomi": [
+      "カン"
+    ],
+    "reliability": "strong-rogue",
+    "family": [
+      {
+        "kanji": "冠"
+      },
+      {
+        "kanji": "寛"
+      }
+    ],
+    "rogues": [
+      {
+        "kanji": "院",
+        "reading": "イン"
+      }
+    ],
+    "spread": [],
+    "example": {
+      "word": "冠婚葬祭",
+      "reading": "かんこんそうさい",
+      "meaning": "ceremonial occasions"
+    },
+    "explanation": "## 完 — カン  🟡\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: カン\n- **Reliability**: 🟡 Strong — reliable except 1–2 rogues\n- **JLPT**: N1\n\n### How it works\nEach member is a **radical + 完**: the radical gives the *meaning*, while **完** carries the **カン** sound. Strip the radical off an unknown kanji, spot **完**, and you can usually read it.\n\nReliable **except** the rogue(s) below — memorise those as the exception.\n\n### Family — kanji that share this sound\n冠・寛\n\n### ⚠️ Rogues — memorise these\nThey look like the family but take a different reading:\n\n| Kanji | Reading |\n|---|---|\n| 院 | **イン** |\n\n### Example\n冠婚葬祭 (かんこんそうさい) — <span lang=\"en\">ceremonial occasions</span>\n"
+  },
+  {
+    "id": "fee9a9cc",
+    "type": "phonetic",
+    "word": "亭",
+    "reading": "テイ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N3",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "停止",
+    "onyomi": [
+      "テイ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "停",
+        "gloss": "stop"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "停止",
+      "reading": "ていし",
+      "meaning": "stop/halt"
+    },
+    "explanation": "## 亭 — テイ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: テイ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N3\n\n### How it works\nEach member is a **radical + 亭**: the radical gives the *meaning*, while **亭** carries the **テイ** sound. Strip the radical off an unknown kanji, spot **亭**, and you can usually read it.\n\nTrust it — every member below reads **テイ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 停 | <span lang=\"en\">stop</span> |\n\n### Example\n停止 (ていし) — <span lang=\"en\">stop/halt</span>\n"
+  },
+  {
+    "id": "ff8fc5e9",
+    "type": "phonetic",
+    "word": "倉",
+    "reading": "ソウ",
+    "meaning": "sound mark · rock-solid",
+    "level": "N2",
+    "tags": [
+      "phonetic",
+      "rock-solid"
+    ],
+    "lookAlike": false,
+    "note": "",
+    "lookup": "創造",
+    "onyomi": [
+      "ソウ"
+    ],
+    "reliability": "rock-solid",
+    "family": [
+      {
+        "kanji": "創",
+        "gloss": "create"
+      },
+      {
+        "kanji": "蒼",
+        "gloss": "pale-blue"
+      },
+      {
+        "kanji": "槍",
+        "gloss": "spear"
+      }
+    ],
+    "rogues": [],
+    "spread": [],
+    "example": {
+      "word": "創造",
+      "reading": "そうぞう",
+      "meaning": "creation"
+    },
+    "explanation": "## 倉 — ソウ  🟢\n\n- **Type**: 形声 phonetic (sound component)\n- **Lends the reading**: ソウ\n- **Reliability**: 🟢 Rock-solid — the sound wins every time\n- **JLPT**: N2\n\n### How it works\nEach member is a **radical + 倉**: the radical gives the *meaning*, while **倉** carries the **ソウ** sound. Strip the radical off an unknown kanji, spot **倉**, and you can usually read it.\n\nTrust it — every member below reads **ソウ** (allowing regular voicing カ→ガ).\n\n### Family — kanji that share this sound\n| Kanji | Meaning |\n|---|---|\n| 創 | <span lang=\"en\">create</span> |\n| 蒼 | <span lang=\"en\">pale-blue</span> |\n| 槍 | <span lang=\"en\">spear</span> |\n\n### Example\n創造 (そうぞう) — <span lang=\"en\">creation</span>\n"
+  }
+]
