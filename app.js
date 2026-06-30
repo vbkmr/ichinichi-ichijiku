@@ -18,7 +18,7 @@ const TIER_BADGE = {
 
 (async () => {
   const word = $("#word"), panel = $("#panel"), reading = $("#reading"),
-    question = $("#question"), kind = $("#kind"), meta = $("#meta"),
+    question = $("#question"), kind = $("#kind"),
     hint = $("#hint"), progress = $("#progress");
 
   let index;
@@ -35,8 +35,8 @@ const TIER_BADGE = {
     return;
   }
 
-  // ── daily streak + "groups seen" (localStorage only; never affects the daily pick) ──
-  const STREAK_KEY = "ichijiku.streak", SEEN_KEY = "ichijiku.seen";
+  // ── daily streak (localStorage only; never affects the daily pick) ──
+  const STREAK_KEY = "ichijiku.streak";
   const todayStr = () => {
     const d = new Date();
     return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
@@ -56,15 +56,8 @@ const TIER_BADGE = {
     try { localStorage.setItem(STREAK_KEY, JSON.stringify(s)); } catch { /* ignore */ }
     return s.count;
   })();
-  let seen;
-  try { seen = new Set(JSON.parse(localStorage.getItem(SEEN_KEY)) || []); } catch { seen = new Set(); }
-  function markSeen(id) {
-    if (seen.has(id)) return;
-    seen.add(id);
-    try { localStorage.setItem(SEEN_KEY, JSON.stringify([...seen])); } catch { /* ignore */ }
-  }
   function renderProgress() {
-    if (progress) progress.textContent = `🔥 ${streak} 日連続 · ${seen.size} / ${index.length} 字`;
+    if (progress) progress.textContent = `🔥 ${streak} 日連続`;
   }
 
   let full = null;
@@ -86,6 +79,8 @@ const TIER_BADGE = {
     panel.classList.add("hidden");
     word.setAttribute("aria-expanded", "false");
     question.classList.remove("hidden");
+    // phonetic cards quiz the reading, so keep it hidden on the folded face
+    reading.hidden = current.type === "phonetic";
     hint.textContent = HINT_CLOSED;
   }
 
@@ -100,7 +95,6 @@ const TIER_BADGE = {
     kind.textContent = entry.type === "radical" ? "今日の部首" : "今日の形声";
     kind.className = entry.type === "radical" ? "kind--radical" : "kind--phonetic";
     question.textContent = promptFor(entry);
-    meta.textContent = `第 ${index.indexOf(entry) + 1} 日`;
     document.title = `${entry.word} — 一日一字（く）`;
     fold();
   }
@@ -190,9 +184,8 @@ const TIER_BADGE = {
     panel.classList.remove("hidden");
     word.setAttribute("aria-expanded", "true");
     question.classList.add("hidden");
+    reading.hidden = false; // reveal the reading (the answer) on tap
     hint.textContent = HINT_OPEN;
-    markSeen(current.id); // count a group as "seen" once you reveal it
-    renderProgress();
   }
 
   const shuffle = () => show(index[randomIndex(index.indexOf(current))]);
