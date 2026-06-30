@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="A fig (無花果 / いちじく)">
+  <title>fig — 無花果 (いちじく)</title>
+  <!-- solid, non-transparent background in the 紺 (indigo) theme color -->
+  <rect width="128" height="128" fill="#11213f"/>
+  <!-- leaf -->
+  <path d="M67 27 C80 13 100 14 107 19 C101 36 80 39 69 30 Z" fill="#aacf53"/>
+  <path d="M71 29 C83 22 97 21 104 21" fill="none" stroke="#7c9f37" stroke-width="2" stroke-linecap="round"/>
+  <!-- stem -->
+  <path d="M64 31 C63 24 64 21 68 17" fill="none" stroke="#8a5a34" stroke-width="5" stroke-linecap="round"/>
+  <!-- skin (teardrop: narrow top, round bottom) -->
+  <path d="M64 28 C42 42 30 64 30 82 C30 103 46 114 64 114 C82 114 98 103 98 82 C98 64 86 42 64 28 Z" fill="#6f4a90"/>
+  <!-- skin highlight -->
+  <path d="M50 50 C42 60 38 72 39 84" fill="none" stroke="#8e69ad" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+  <!-- flesh -->
+  <path d="M64 44 C49 54 41 70 41 84 C41 101 51 109 64 109 C77 109 87 101 87 84 C87 70 79 54 64 44 Z" fill="#f3a9a0"/>
+  <!-- pale inner flesh -->
+  <path d="M64 60 C55 67 51 77 51 86 C51 98 57 103 64 103 C71 103 77 98 77 86 C77 77 73 67 64 60 Z" fill="#fbd9d2"/>
+  <!-- seeds -->
+  <g fill="#e0912b">
+    <circle cx="58" cy="76" r="2.1"/>
+    <circle cx="69" cy="74" r="2.1"/>
+    <circle cx="63" cy="84" r="2.1"/>
+    <circle cx="72" cy="86" r="2"/>
+    <circle cx="55" cy="86" r="2"/>
+    <circle cx="64" cy="94" r="2"/>
+    <circle cx="60" cy="68" r="1.6"/>
+    <circle cx="70" cy="66" r="1.6"/>
+  </g>
+</svg>
