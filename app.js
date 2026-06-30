@@ -19,7 +19,7 @@ const TIER_BADGE = {
 (async () => {
   const word = $("#word"), panel = $("#panel"), reading = $("#reading"),
     question = $("#question"), kind = $("#kind"), meta = $("#meta"),
-    hint = $("#hint");
+    hint = $("#hint"), progress = $("#progress");
 
   let index;
   try {
@@ -33,6 +33,38 @@ const TIER_BADGE = {
     word.textContent = "字";
     hint.textContent = "no cards yet";
     return;
+  }
+
+  // ── daily streak + "groups seen" (localStorage only; never affects the daily pick) ──
+  const STREAK_KEY = "ichijiku.streak", SEEN_KEY = "ichijiku.seen";
+  const todayStr = () => {
+    const d = new Date();
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+  };
+  const daysApart = (a, b) => Math.round((new Date(b + "T00:00:00") - new Date(a + "T00:00:00")) / 86400000);
+  const streak = (() => {
+    let s = null;
+    try { s = JSON.parse(localStorage.getItem(STREAK_KEY)); } catch { /* ignore */ }
+    const today = todayStr();
+    if (!s || !s.last) s = { last: today, count: 1 };
+    else {
+      const d = daysApart(s.last, today);
+      if (d === 1) { s.count += 1; s.last = today; }       // visited yesterday → extend
+      else if (d > 1) { s.count = 1; s.last = today; }      // gap → reset
+      else s.last = today;                                  // same day / clock skew → keep
+    }
+    try { localStorage.setItem(STREAK_KEY, JSON.stringify(s)); } catch { /* ignore */ }
+    return s.count;
+  })();
+  let seen;
+  try { seen = new Set(JSON.parse(localStorage.getItem(SEEN_KEY)) || []); } catch { seen = new Set(); }
+  function markSeen(id) {
+    if (seen.has(id)) return;
+    seen.add(id);
+    try { localStorage.setItem(SEEN_KEY, JSON.stringify([...seen])); } catch { /* ignore */ }
+  }
+  function renderProgress() {
+    if (progress) progress.textContent = `🔥 ${streak} 日連続 · ${seen.size} / ${index.length} 字`;
   }
 
   let full = null;
@@ -159,6 +191,8 @@ const TIER_BADGE = {
     word.setAttribute("aria-expanded", "true");
     question.classList.add("hidden");
     hint.textContent = HINT_OPEN;
+    markSeen(current.id); // count a group as "seen" once you reveal it
+    renderProgress();
   }
 
   const shuffle = () => show(index[randomIndex(index.indexOf(current))]);
@@ -166,6 +200,7 @@ const TIER_BADGE = {
   // initial card: widget deep-link is stable, a plain visit is random
   const start = index.find((e) => e.id === location.hash.slice(1));
   show(start || index[randomIndex(-1)]);
+  renderProgress();
   if (new URLSearchParams(location.search).has("open")) queueMicrotask(reveal);
 
   // disambiguate single tap (reveal) from double tap (new card)

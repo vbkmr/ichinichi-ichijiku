@@ -199,6 +199,13 @@ body {
   letter-spacing: 0.04em;
   margin: 1.4rem 0 0;
 }
+.progress {
+  font-family: var(--mono);
+  color: var(--cream-soft);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  margin: 0.5rem 0 0;
+}
 
 /* the reveal — light 紺 panel rendering the enrichment markdown */
 .panel {
